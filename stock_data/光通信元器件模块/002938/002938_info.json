@@ -1,0 +1,16 @@
+{
+  "stock_code": "002938",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 1876,
+  "last_update": "2026-06-30 16:34:06",
+  "date_range": {
+    "first_date": 20180918,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 123.1,
+    "low": 15.92
+  },
+  "total_volume": null
+}

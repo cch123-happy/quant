@@ -1,0 +1,16 @@
+{
+  "stock_code": "000960",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 3028,
+  "last_update": "2026-06-30 16:49:21",
+  "date_range": {
+    "first_date": 20140102,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 48.8,
+    "low": 7.94
+  },
+  "total_volume": null
+}

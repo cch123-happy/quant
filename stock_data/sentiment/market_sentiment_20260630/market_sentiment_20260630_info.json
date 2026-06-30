@@ -1,0 +1,53 @@
+{
+  "data_type": "sentiment",
+  "identifier": "market_sentiment_20260630",
+  "data_count": 1564,
+  "last_update": "2026-06-30 19:59:01",
+  "params": {
+    "start_date": "20160101",
+    "end_date": "20260620"
+  },
+  "columns": [
+    "modal_id",
+    "date",
+    "p_open",
+    "p_close",
+    "p_high",
+    "p_low",
+    "p_close_pre1d"
+  ],
+  "date_range": {
+    "first": "20200102",
+    "last": "20260618"
+  },
+  "modal_id_stat": {
+    "max": 0.0,
+    "min": 0.0,
+    "mean": 0.0,
+    "sum": 0.0
+  },
+  "p_open_stat": {
+    "max": 134378.0,
+    "min": 101.25,
+    "mean": 13990.011560102303,
+    "sum": 21880378.080000002
+  },
+  "p_close_stat": {
+    "max": 134553.0,
+    "min": 103.86,
+    "mean": 14014.686170076728,
+    "sum": 21918969.17
+  },
+  "p_high_stat": {
+    "max": 134913.0,
+    "min": 104.03,
+    "mean": 14127.64965473146,
+    "sum": 22095644.060000002
+  },
+  "p_low_stat": {
+    "max": 133433.0,
+    "min": 101.17,
+    "mean": 13871.643446291564,
+    "sum": 21695250.350000005
+  }
+}

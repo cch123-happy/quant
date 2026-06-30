@@ -1,0 +1,16 @@
+{
+  "stock_code": "603186",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 2295,
+  "last_update": "2026-06-30 16:32:50",
+  "date_range": {
+    "first_date": 20170103,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 239.99,
+    "low": 7.73
+  },
+  "total_volume": null
+}

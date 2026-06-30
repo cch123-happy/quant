@@ -1,0 +1,63 @@
+{
+  "data_type": "plate",
+  "identifier": "883957",
+  "data_count": 1000,
+  "last_update": "2026-06-30 20:15:04",
+  "params": {
+    "plate_code": "883957",
+    "start_date": "20160101",
+    "end_date": "20260620",
+    "freq": "1day",
+    "plate_type": "15"
+  },
+  "columns": [
+    "date",
+    "p_open",
+    "p_high",
+    "p_low",
+    "volume",
+    "b_id",
+    "b_name",
+    "id",
+    "platform",
+    "quote_rate",
+    "p_close",
+    "p_prev_close",
+    "turnover",
+    "trade_date"
+  ],
+  "date_range": {
+    "first": "20180517",
+    "last": "20220628"
+  },
+  "p_open_stat": {
+    "max": 1339.96,
+    "min": 646.235,
+    "mean": 995.633648,
+    "sum": 995633.648
+  },
+  "p_high_stat": {
+    "max": 1341.21,
+    "min": 671.79,
+    "mean": 1003.5804519999999,
+    "sum": 1003580.4519999999
+  },
+  "p_low_stat": {
+    "max": 1329.07,
+    "min": 643.632,
+    "mean": 987.685887,
+    "sum": 987685.887
+  },
+  "volume_stat": {
+    "max": 141067000000.0,
+    "min": 21785000000.0,
+    "mean": 62243920800.0,
+    "sum": 62243920800000.0
+  },
+  "b_id_stat": {
+    "max": 883957.0,
+    "min": 883957.0,
+    "mean": 883957.0,
+    "sum": 883957000.0
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "stock_code": "688630",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 1263,
+  "last_update": "2026-06-30 16:35:22",
+  "date_range": {
+    "first_date": 20210401,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 512.82,
+    "low": 37.23
+  },
+  "total_volume": null
+}

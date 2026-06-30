@@ -1,0 +1,16 @@
+{
+  "stock_code": "002222",
+  "start_date": "20180101",
+  "end_date": "20260624",
+  "data_count": 2054,
+  "last_update": "2026-06-30 16:28:39",
+  "date_range": {
+    "first_date": 20180102,
+    "last_date": 20260624
+  },
+  "price_range": {
+    "high": 124.6,
+    "low": 9.28
+  },
+  "total_volume": null
+}

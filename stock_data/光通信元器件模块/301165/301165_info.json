@@ -1,0 +1,16 @@
+{
+  "stock_code": "301165",
+  "start_date": "20180101",
+  "end_date": "20260624",
+  "data_count": 869,
+  "last_update": "2026-06-30 16:30:11",
+  "date_range": {
+    "first_date": 20221121,
+    "last_date": 20260624
+  },
+  "price_range": {
+    "high": 110.33,
+    "low": 24.9
+  },
+  "total_volume": null
+}

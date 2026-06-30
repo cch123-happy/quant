@@ -1,0 +1,16 @@
+{
+  "stock_code": "688041.SH",
+  "start_date": "20160101",
+  "end_date": "20260620",
+  "data_count": 931,
+  "last_update": "2026-06-30 18:36:49",
+  "date_range": {
+    "first_date": 20220812,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 358.8,
+    "low": 36.22
+  },
+  "total_volume": null
+}

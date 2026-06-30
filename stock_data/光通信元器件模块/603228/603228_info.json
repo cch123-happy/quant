@@ -1,0 +1,16 @@
+{
+  "stock_code": "603228",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 2292,
+  "last_update": "2026-06-30 16:34:18",
+  "date_range": {
+    "first_date": 20170106,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 89.9,
+    "low": 15.02
+  },
+  "total_volume": null
+}

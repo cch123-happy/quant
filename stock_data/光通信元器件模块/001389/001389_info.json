@@ -1,0 +1,16 @@
+{
+  "stock_code": "001389",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 535,
+  "last_update": "2026-06-30 16:35:04",
+  "date_range": {
+    "first_date": 20240402,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 206.66,
+    "low": 32.77
+  },
+  "total_volume": null
+}

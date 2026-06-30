@@ -1,0 +1,16 @@
+{
+  "stock_code": "002913",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 2072,
+  "last_update": "2026-06-30 16:35:02",
+  "date_range": {
+    "first_date": 20171201,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 114.45,
+    "low": 18.59
+  },
+  "total_volume": null
+}

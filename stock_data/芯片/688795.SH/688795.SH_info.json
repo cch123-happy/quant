@@ -1,0 +1,16 @@
+{
+  "stock_code": "688795.SH",
+  "start_date": "20160101",
+  "end_date": "20260620",
+  "data_count": 109,
+  "last_update": "2026-06-30 18:36:35",
+  "date_range": {
+    "first_date": 20260105,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 755.51,
+    "low": 503.06
+  },
+  "total_volume": null
+}

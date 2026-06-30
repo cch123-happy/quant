@@ -1,0 +1,16 @@
+{
+  "stock_code": "601138",
+  "start_date": "20160101",
+  "end_date": "20260620",
+  "data_count": 1947,
+  "last_update": "2026-06-30 18:41:16",
+  "date_range": {
+    "first_date": 20180608,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 84.95,
+    "low": 7.8
+  },
+  "total_volume": null
+}

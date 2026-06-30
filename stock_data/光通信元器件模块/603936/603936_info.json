@@ -1,0 +1,16 @@
+{
+  "stock_code": "603936",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 2556,
+  "last_update": "2026-06-30 16:34:51",
+  "date_range": {
+    "first_date": 20151209,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 72.99,
+    "low": 5.29
+  },
+  "total_volume": null
+}

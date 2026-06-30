@@ -1,0 +1,16 @@
+{
+  "stock_code": "002281",
+  "start_date": "20250701",
+  "end_date": "20260701",
+  "data_count": 242,
+  "last_update": "2026-07-01 01:01:24",
+  "date_range": {
+    "first_date": 20250701,
+    "last_date": 20260630
+  },
+  "price_range": {
+    "high": 279.0,
+    "low": 44.0
+  },
+  "total_volume": null
+}

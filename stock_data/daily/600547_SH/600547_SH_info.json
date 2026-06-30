@@ -1,0 +1,59 @@
+{
+  "data_type": "daily",
+  "identifier": "600547_SH",
+  "data_count": 116,
+  "last_update": "2026-07-01 00:32:53",
+  "params": {
+    "ts_code": "600547.SH",
+    "start_date": "20260101",
+    "end_date": "20261231",
+    "adj": "qfq"
+  },
+  "columns": [
+    "ts_code",
+    "trade_date",
+    "open",
+    "high",
+    "low",
+    "close",
+    "pre_close",
+    "change",
+    "pct_chg",
+    "vol",
+    "amount"
+  ],
+  "date_range": {
+    "first": "20260105",
+    "last": "20260630"
+  },
+  "open_stat": {
+    "max": 64.0,
+    "min": 22.82,
+    "mean": 39.080948275862056,
+    "sum": 4533.3899999999985
+  },
+  "high_stat": {
+    "max": 65.55,
+    "min": 23.3,
+    "mean": 39.95275862068966,
+    "sum": 4634.52
+  },
+  "low_stat": {
+    "max": 57.93,
+    "min": 22.55,
+    "mean": 38.288534482758614,
+    "sum": 4441.469999999999
+  },
+  "close_stat": {
+    "max": 60.61,
+    "min": 23.0,
+    "mean": 39.11905172413793,
+    "sum": 4537.81
+  },
+  "pre_close_stat": {
+    "max": 60.61,
+    "min": 23.0,
+    "mean": 39.253706896551726,
+    "sum": 4553.43
+  }
+}

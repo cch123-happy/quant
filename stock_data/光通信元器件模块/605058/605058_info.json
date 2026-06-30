@@ -1,0 +1,16 @@
+{
+  "stock_code": "605058",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 1373,
+  "last_update": "2026-06-30 16:35:07",
+  "date_range": {
+    "first_date": 20201021,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 42.2,
+    "low": 12.04
+  },
+  "total_volume": null
+}

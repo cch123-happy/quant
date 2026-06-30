@@ -1,0 +1,16 @@
+{
+  "stock_code": "300499",
+  "start_date": "20160101",
+  "end_date": "20260620",
+  "data_count": 2518,
+  "last_update": "2026-06-30 18:44:08",
+  "date_range": {
+    "first_date": 20160202,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 117.0,
+    "low": 7.05
+  },
+  "total_volume": null
+}

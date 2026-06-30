@@ -1,0 +1,16 @@
+{
+  "stock_code": "002815",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 2353,
+  "last_update": "2026-06-30 16:34:22",
+  "date_range": {
+    "first_date": 20161012,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 71.8,
+    "low": 6.33
+  },
+  "total_volume": null
+}

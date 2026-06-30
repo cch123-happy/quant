@@ -1,0 +1,16 @@
+{
+  "stock_code": "003031",
+  "start_date": "20180101",
+  "end_date": "20260624",
+  "data_count": 1324,
+  "last_update": "2026-06-30 16:29:09",
+  "date_range": {
+    "first_date": 20210104,
+    "last_date": 20260624
+  },
+  "price_range": {
+    "high": 205.95,
+    "low": 18.32
+  },
+  "total_volume": null
+}

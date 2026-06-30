@@ -1,0 +1,16 @@
+{
+  "stock_code": "301018",
+  "start_date": "20160101",
+  "end_date": "20260620",
+  "data_count": 1199,
+  "last_update": "2026-06-30 18:44:11",
+  "date_range": {
+    "first_date": 20210707,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 170.0,
+    "low": 14.45
+  },
+  "total_volume": null
+}

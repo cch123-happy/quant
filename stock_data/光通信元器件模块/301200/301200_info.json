@@ -1,0 +1,16 @@
+{
+  "stock_code": "301200",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 1044,
+  "last_update": "2026-06-30 16:35:14",
+  "date_range": {
+    "first_date": 20220228,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 341.5,
+    "low": 26.76
+  },
+  "total_volume": null
+}

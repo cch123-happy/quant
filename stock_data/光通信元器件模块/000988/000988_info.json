@@ -1,0 +1,16 @@
+{
+  "stock_code": "000988",
+  "start_date": "20180101",
+  "end_date": "20260624",
+  "data_count": 2054,
+  "last_update": "2026-06-30 16:30:00",
+  "date_range": {
+    "first_date": 20180102,
+    "last_date": 20260624
+  },
+  "price_range": {
+    "high": 181.57,
+    "low": 10.13
+  },
+  "total_volume": null
+}

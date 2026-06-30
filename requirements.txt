@@ -1,0 +1,10 @@
+# requirements.txt
+openai
+pandas
+numpy
+matplotlib
+requests
+zzshare
+tushare
+mplfinance
+levistock

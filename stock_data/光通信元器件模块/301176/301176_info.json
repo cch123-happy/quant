@@ -1,0 +1,16 @@
+{
+  "stock_code": "301176",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 899,
+  "last_update": "2026-06-30 16:33:09",
+  "date_range": {
+    "first_date": 20220928,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 82.0,
+    "low": 7.4
+  },
+  "total_volume": null
+}

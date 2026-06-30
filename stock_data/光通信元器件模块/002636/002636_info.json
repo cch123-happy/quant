@@ -1,0 +1,16 @@
+{
+  "stock_code": "002636",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 3028,
+  "last_update": "2026-06-30 16:32:45",
+  "date_range": {
+    "first_date": 20140102,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 105.28,
+    "low": 4.63
+  },
+  "total_volume": null
+}

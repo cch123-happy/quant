@@ -1,0 +1,16 @@
+{
+  "stock_code": "603256",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 1676,
+  "last_update": "2026-06-30 16:33:46",
+  "date_range": {
+    "first_date": 20190719,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 276.0,
+    "low": 4.51
+  },
+  "total_volume": null
+}

@@ -1,0 +1,16 @@
+{
+  "stock_code": "002930",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 1995,
+  "last_update": "2026-06-30 17:27:18",
+  "date_range": {
+    "first_date": 20180328,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 72.8,
+    "low": 9.0
+  },
+  "total_volume": null
+}

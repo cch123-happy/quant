@@ -1,0 +1,16 @@
+{
+  "stock_code": "300852",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 1439,
+  "last_update": "2026-06-30 16:35:10",
+  "date_range": {
+    "first_date": 20200713,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 135.98,
+    "low": 19.92
+  },
+  "total_volume": null
+}

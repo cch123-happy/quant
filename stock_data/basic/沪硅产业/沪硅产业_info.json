@@ -1,0 +1,29 @@
+{
+  "data_type": "basic",
+  "identifier": "沪硅产业",
+  "data_count": 5538,
+  "last_update": "2026-06-30 21:33:20",
+  "params": {
+    "ts_code": "",
+    "stock_code": "沪硅产业",
+    "exchange": "",
+    "list_status": ""
+  },
+  "columns": [
+    "ts_code",
+    "symbol",
+    "name",
+    "area",
+    "industry",
+    "fullname",
+    "enname",
+    "cnspell",
+    "market",
+    "exchange",
+    "curr_type",
+    "list_status",
+    "list_date",
+    "delist_date",
+    "is_hs"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "stock_code": "603019",
+  "start_date": "20160101",
+  "end_date": "20260620",
+  "data_count": 2539,
+  "last_update": "2026-06-30 18:41:12",
+  "date_range": {
+    "first_date": 20160104,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 128.12,
+    "low": 20.28
+  },
+  "total_volume": null
+}

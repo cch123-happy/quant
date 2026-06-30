@@ -1,0 +1,16 @@
+{
+  "stock_code": "300757",
+  "start_date": "20180101",
+  "end_date": "20260624",
+  "data_count": 1807,
+  "last_update": "2026-06-30 16:30:41",
+  "date_range": {
+    "first_date": 20190108,
+    "last_date": 20260624
+  },
+  "price_range": {
+    "high": 714.0,
+    "low": 25.87
+  },
+  "total_volume": null
+}

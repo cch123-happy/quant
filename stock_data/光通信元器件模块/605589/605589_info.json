@@ -1,0 +1,16 @@
+{
+  "stock_code": "605589",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 1175,
+  "last_update": "2026-06-30 16:33:18",
+  "date_range": {
+    "first_date": 20210810,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 71.8,
+    "low": 15.48
+  },
+  "total_volume": null
+}

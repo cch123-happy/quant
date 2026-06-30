@@ -1,0 +1,16 @@
+{
+  "stock_code": "300476",
+  "start_date": "20140101",
+  "end_date": "20260620",
+  "data_count": 2677,
+  "last_update": "2026-06-30 16:52:01",
+  "date_range": {
+    "first_date": 20150611,
+    "last_date": 20260618
+  },
+  "price_range": {
+    "high": 402.6,
+    "low": 10.12
+  },
+  "total_volume": null
+}

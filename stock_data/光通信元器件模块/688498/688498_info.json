@@ -1,0 +1,16 @@
+{
+  "stock_code": "688498",
+  "start_date": "20180101",
+  "end_date": "20260624",
+  "data_count": 847,
+  "last_update": "2026-06-30 16:28:42",
+  "date_range": {
+    "first_date": 20221221,
+    "last_date": 20260624
+  },
+  "price_range": {
+    "high": 1968.14,
+    "low": 78.3
+  },
+  "total_volume": null
+}
