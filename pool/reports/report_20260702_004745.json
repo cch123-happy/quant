@@ -1,0 +1,4449 @@
+{
+  "analysis_date": "2026-07-02 00:47:45",
+  "total_stocks": 100,
+  "selected_count": 63,
+  "selected_stocks": [
+    {
+      "stock_code": "000551",
+      "stock_name": "创元科技",
+      "current_price": 21.0,
+      "ma10": 17.694,
+      "ma20": 16.402499999999996,
+      "ma60": 15.824666666666667,
+      "vol_ma5": 62410093.0,
+      "vol_ma20": 29543747.2,
+      "day_change": 1.7935046049442516,
+      "month_change": 37.07571801566581,
+      "score": 116.54084340902389,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (21.00 > 15.09)",
+        "成交量放大 2.11倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000783",
+      "stock_name": "长江证券",
+      "current_price": 10.54,
+      "ma10": 9.281,
+      "ma20": 8.4505,
+      "ma60": 8.016,
+      "vol_ma5": 405147159.4,
+      "vol_ma20": 216125953.6,
+      "day_change": 8.102564102564092,
+      "month_change": 33.926302414231245,
+      "score": 116.29740518962076,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (10.54 > 7.77)",
+        "成交量放大 1.87倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601066",
+      "stock_name": "中信建投",
+      "current_price": 30.01,
+      "ma10": 28.310000000000002,
+      "ma20": 26.714499999999997,
+      "ma60": 23.845333333333333,
+      "vol_ma5": 122069915.8,
+      "vol_ma20": 72667587.4,
+      "day_change": 3.2335741314069466,
+      "month_change": 17.455968688845402,
+      "score": 115.17054350257213,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (30.01 > 24.58)",
+        "成交量放大 1.68倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600909",
+      "stock_name": "华安证券",
+      "current_price": 12.22,
+      "ma10": 10.849,
+      "ma20": 9.161999999999999,
+      "ma60": 7.117000000000002,
+      "vol_ma5": 430578592.8,
+      "vol_ma20": 311626660.2,
+      "day_change": 9.990999099909992,
+      "month_change": 64.24731182795699,
+      "score": 114.34031192918364,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (12.22 > 8.43)",
+        "成交量放大 1.38倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601995",
+      "stock_name": "中金公司",
+      "current_price": 37.51,
+      "ma10": 35.501,
+      "ma20": 34.214499999999994,
+      "ma60": 33.9655,
+      "vol_ma5": 49044635.8,
+      "vol_ma20": 31009298.7,
+      "day_change": 3.7621023513139784,
+      "month_change": 10.486008836524285,
+      "score": 107.08711781071969,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (37.51 > 31.48)",
+        "成交量放大 1.58倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600999",
+      "stock_name": "招商证券",
+      "current_price": 22.94,
+      "ma10": 20.419999999999998,
+      "ma20": 18.948500000000003,
+      "ma60": 17.11116666666667,
+      "vol_ma5": 182195835.2,
+      "vol_ma20": 126275483.0,
+      "day_change": 8.720379146919433,
+      "month_change": 32.52455228191798,
+      "score": 106.81289995811701,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (22.94 > 17.43)",
+        "成交量放大 1.44倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000776",
+      "stock_name": "广发证券",
+      "current_price": 24.86,
+      "ma10": 22.775,
+      "ma20": 21.1465,
+      "ma60": 20.1835,
+      "vol_ma5": 153548421.0,
+      "vol_ma20": 123819337.4,
+      "day_change": 6.239316239316239,
+      "month_change": 28.941908713692932,
+      "score": 104.63398320410236,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (24.86 > 19.45)",
+        "成交量放大 1.24倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600030",
+      "stock_name": "中信证券",
+      "current_price": 29.47,
+      "ma10": 28.219,
+      "ma20": 27.078500000000002,
+      "ma60": 26.46066666666667,
+      "vol_ma5": 314025796.2,
+      "vol_ma20": 250504205.9,
+      "day_change": 2.575704838148263,
+      "month_change": 15.117187499999996,
+      "score": 97.27457106144969,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (29.47 > 24.91)",
+        "成交量放大 1.25倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000571",
+      "stock_name": "新大洲A",
+      "current_price": 6.64,
+      "ma10": 6.148999999999999,
+      "ma20": 5.805999999999999,
+      "ma60": 5.689666666666667,
+      "vol_ma5": 43541767.8,
+      "vol_ma20": 36477800.15,
+      "day_change": 4.897314375987349,
+      "month_change": 14.28571428571428,
+      "score": 93.34055890796179,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.64 > 5.34)",
+        "成交量放大 1.19倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600906",
+      "stock_name": "财达证券",
+      "current_price": 7.93,
+      "ma10": 7.629999999999998,
+      "ma20": 7.2415,
+      "ma60": 6.690833333333334,
+      "vol_ma5": 147266568.2,
+      "vol_ma20": 135278607.75,
+      "day_change": 6.300268096514738,
+      "month_change": 16.275659824046905,
+      "score": 88.7040727363308,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (7.93 > 6.66)",
+        "成交量放大 1.09倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601211",
+      "stock_name": "国泰君安",
+      "current_price": 19.12,
+      "ma10": 17.969,
+      "ma20": 17.432499999999997,
+      "ma60": 16.5855,
+      "vol_ma5": 193359837.2,
+      "vol_ma20": 172261132.0,
+      "day_change": 5.054945054945059,
+      "month_change": 17.156862745098046,
+      "score": 88.05628410358446,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (19.12 > 16.04)",
+        "成交量放大 1.12倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000048",
+      "stock_name": "京基智农",
+      "current_price": 22.5,
+      "ma10": 20.952,
+      "ma20": 18.817999999999998,
+      "ma60": 16.087833333333336,
+      "vol_ma5": 27994484.4,
+      "vol_ma20": 32804628.25,
+      "day_change": 1.856043458578549,
+      "month_change": 56.35858234885336,
+      "score": 87.97144840303748,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (22.50 > 17.31)",
+        "成交量未明显放大 (0.85倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601377",
+      "stock_name": "兴业证券",
+      "current_price": 6.27,
+      "ma10": 6.106999999999999,
+      "ma20": 6.0015,
+      "ma60": 5.951666666666667,
+      "vol_ma5": 169353611.6,
+      "vol_ma20": 141714986.95,
+      "day_change": 3.8079470198675525,
+      "month_change": 8.665511265164639,
+      "score": 86.06972836740408,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.27 > 5.52)",
+        "成交量放大 1.20倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601108",
+      "stock_name": "财通证券",
+      "current_price": 9.21,
+      "ma10": 8.406,
+      "ma20": 8.0275,
+      "ma60": 8.144166666666667,
+      "vol_ma5": 127038385.0,
+      "vol_ma20": 81685141.95,
+      "day_change": 6.473988439306355,
+      "month_change": 16.730038022813698,
+      "score": 82.61741532794434,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (9.21 > 7.39)",
+        "成交量放大 1.56倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600770",
+      "stock_name": "综艺股份",
+      "current_price": 6.85,
+      "ma10": 6.387,
+      "ma20": 6.145999999999999,
+      "ma60": 6.462833333333333,
+      "vol_ma5": 102088573.6,
+      "vol_ma20": 54391082.9,
+      "day_change": -2.1428571428571463,
+      "month_change": 12.85008237232288,
+      "score": 81.19813291384068,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.85 > 5.65)",
+        "成交量放大 1.88倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601688",
+      "stock_name": "华泰证券",
+      "current_price": 21.64,
+      "ma10": 20.826999999999998,
+      "ma20": 20.1155,
+      "ma60": 19.201666666666668,
+      "vol_ma5": 149475902.2,
+      "vol_ma20": 150970225.1,
+      "day_change": 4.946653734238593,
+      "month_change": 13.179916317991625,
+      "score": 77.53971009460984,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (21.64 > 18.51)",
+        "成交量未明显放大 (0.99倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601901",
+      "stock_name": "方正证券",
+      "current_price": 7.48,
+      "ma10": 7.117,
+      "ma20": 6.8565,
+      "ma60": 6.9799999999999995,
+      "vol_ma5": 180128483.6,
+      "vol_ma20": 110824354.85,
+      "day_change": 3.8888888888888973,
+      "month_change": 12.650602409638555,
+      "score": 76.432664756447,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (7.48 > 6.31)",
+        "成交量放大 1.63倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000728",
+      "stock_name": "国元证券",
+      "current_price": 7.83,
+      "ma10": 7.476999999999999,
+      "ma20": 7.212000000000001,
+      "ma60": 7.3406666666666665,
+      "vol_ma5": 93472288.0,
+      "vol_ma20": 57051863.7,
+      "day_change": 4.539385847797051,
+      "month_change": 9.971910112359538,
+      "score": 76.33321224230315,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (7.83 > 6.64)",
+        "成交量放大 1.64倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "300059",
+      "stock_name": "东方财富",
+      "current_price": 21.45,
+      "ma10": 20.279999999999998,
+      "ma20": 19.286,
+      "ma60": 19.675333333333334,
+      "vol_ma5": 682141676.0,
+      "vol_ma20": 516327960.3,
+      "day_change": 5.2502453385672165,
+      "month_change": 13.432046536224206,
+      "score": 71.80395080134178,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (21.45 > 17.74)",
+        "成交量放大 1.32倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601162",
+      "stock_name": "天风证券",
+      "current_price": 3.71,
+      "ma10": 3.4339999999999997,
+      "ma20": 3.3125,
+      "ma60": 3.536833333333334,
+      "vol_ma5": 316017732.8,
+      "vol_ma20": 229239156.4,
+      "day_change": 10.089020771513347,
+      "month_change": 12.424242424242426,
+      "score": 70.97921869845906,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (3.71 > 3.05)",
+        "成交量放大 1.38倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601198",
+      "stock_name": "东兴证券",
+      "current_price": 13.99,
+      "ma10": 13.379000000000001,
+      "ma20": 13.041500000000003,
+      "ma60": 13.045333333333334,
+      "vol_ma5": 34331465.4,
+      "vol_ma20": 26740692.3,
+      "day_change": 2.94334069168507,
+      "month_change": 6.631097560975618,
+      "score": 66.4482829108749,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (13.99 > 12.00)",
+        "成交量放大 1.28倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000686",
+      "stock_name": "东北证券",
+      "current_price": 8.75,
+      "ma10": 8.412,
+      "ma20": 8.067,
+      "ma60": 8.220166666666666,
+      "vol_ma5": 51441777.6,
+      "vol_ma20": 39696201.05,
+      "day_change": 4.166666666666652,
+      "month_change": 10.340479192938211,
+      "score": 66.28910606029886,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.75 > 7.42)",
+        "成交量放大 1.30倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601881",
+      "stock_name": "中国银河",
+      "current_price": 13.13,
+      "ma10": 12.718,
+      "ma20": 12.4625,
+      "ma60": 12.592166666666667,
+      "vol_ma5": 84495805.6,
+      "vol_ma20": 62666461.0,
+      "day_change": 4.4550517104216425,
+      "month_change": 6.661251015434599,
+      "score": 65.854234775588,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (13.13 > 11.47)",
+        "成交量放大 1.35倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601878",
+      "stock_name": "浙商证券",
+      "current_price": 9.87,
+      "ma10": 9.561000000000002,
+      "ma20": 9.379499999999998,
+      "ma60": 9.5295,
+      "vol_ma5": 66143197.0,
+      "vol_ma20": 44632092.05,
+      "day_change": 3.894736842105262,
+      "month_change": 6.243272335844985,
+      "score": 65.71462301274988,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (9.87 > 8.63)",
+        "成交量放大 1.48倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600369",
+      "stock_name": "西南证券",
+      "current_price": 4.21,
+      "ma10": 4.092,
+      "ma20": 4.016,
+      "ma60": 4.108833333333334,
+      "vol_ma5": 66896117.4,
+      "vol_ma20": 53764285.75,
+      "day_change": 4.726368159203997,
+      "month_change": 5.778894472361817,
+      "score": 65.49243499776904,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (4.21 > 3.69)",
+        "成交量放大 1.24倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002926",
+      "stock_name": "华西证券",
+      "current_price": 8.5,
+      "ma10": 8.288,
+      "ma20": 8.120999999999999,
+      "ma60": 8.345666666666666,
+      "vol_ma5": 27258808.6,
+      "vol_ma20": 22123736.85,
+      "day_change": 4.039167686658507,
+      "month_change": 4.938271604938271,
+      "score": 65.36985261812518,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.50 > 7.47)",
+        "成交量放大 1.23倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600061",
+      "stock_name": "国投资本",
+      "current_price": 6.64,
+      "ma10": 6.586999999999999,
+      "ma20": 6.4719999999999995,
+      "ma60": 6.598833333333332,
+      "vol_ma5": 67529903.0,
+      "vol_ma20": 51269902.05,
+      "day_change": 1.3740458015267132,
+      "month_change": 3.5881435257410166,
+      "score": 65.12476952996742,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.64 > 5.95)",
+        "成交量放大 1.32倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000166",
+      "stock_name": "申万宏源",
+      "current_price": 4.59,
+      "ma10": 4.517,
+      "ma20": 4.4655000000000005,
+      "ma60": 4.574666666666665,
+      "vol_ma5": 165412500.2,
+      "vol_ma20": 133130584.55,
+      "day_change": 4.318181818181799,
+      "month_change": 4.081632653061207,
+      "score": 65.06703584960654,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (4.59 > 4.11)",
+        "成交量放大 1.24倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002736",
+      "stock_name": "国信证券",
+      "current_price": 10.43,
+      "ma10": 10.252,
+      "ma20": 10.1775,
+      "ma60": 10.663333333333332,
+      "vol_ma5": 56595607.6,
+      "vol_ma20": 41575350.5,
+      "day_change": 4.404404404404394,
+      "month_change": 3.2673267326732702,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (10.43 > 9.36)",
+        "成交量放大 1.36倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601990",
+      "stock_name": "南京证券",
+      "current_price": 6.78,
+      "ma10": 6.699,
+      "ma20": 6.616499999999999,
+      "ma60": 6.999833333333332,
+      "vol_ma5": 38570474.6,
+      "vol_ma20": 27738740.0,
+      "day_change": 3.1963470319634757,
+      "month_change": 2.571860816944027,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.78 > 6.09)",
+        "成交量放大 1.39倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002945",
+      "stock_name": "华林证券",
+      "current_price": 14.08,
+      "ma10": 13.992,
+      "ma20": 13.947999999999999,
+      "ma60": 14.951833333333333,
+      "vol_ma5": 14798302.0,
+      "vol_ma20": 12076249.15,
+      "day_change": 4.839910647803425,
+      "month_change": -1.331464611072175,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (14.08 > 12.83)",
+        "成交量放大 1.23倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600918",
+      "stock_name": "中泰证券",
+      "current_price": 5.5,
+      "ma10": 5.364,
+      "ma20": 5.3260000000000005,
+      "ma60": 5.707666666666666,
+      "vol_ma5": 67302562.6,
+      "vol_ma20": 54284327.25,
+      "day_change": 3.383458646616533,
+      "month_change": 1.2891344383057168,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (5.50 > 4.90)",
+        "成交量放大 1.24倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601099",
+      "stock_name": "太平洋",
+      "current_price": 3.53,
+      "ma10": 3.403,
+      "ma20": 3.3235,
+      "ma60": 3.548,
+      "vol_ma5": 198744676.4,
+      "vol_ma20": 164533566.9,
+      "day_change": 4.7477744807121525,
+      "month_change": 6.969696969696959,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (3.53 > 3.06)",
+        "成交量放大 1.21倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600095",
+      "stock_name": "湘财股份",
+      "current_price": 8.03,
+      "ma10": 7.904999999999999,
+      "ma20": 7.8775,
+      "ma60": 8.663166666666665,
+      "vol_ma5": 38572459.4,
+      "vol_ma20": 30567081.15,
+      "day_change": 6.640106241699861,
+      "month_change": -1.5931372549019662,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.03 > 7.25)",
+        "成交量放大 1.26倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601696",
+      "stock_name": "中银证券",
+      "current_price": 13.16,
+      "ma10": 12.922,
+      "ma20": 12.1015,
+      "ma60": 12.160499999999997,
+      "vol_ma5": 100599573.2,
+      "vol_ma20": 90984762.0,
+      "day_change": 4.031620553359683,
+      "month_change": 17.186108637577924,
+      "score": 56.64384688129601,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (13.16 > 11.13)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600958",
+      "stock_name": "东方证券",
+      "current_price": 9.76,
+      "ma10": 9.562000000000001,
+      "ma20": 9.314,
+      "ma60": 9.344166666666666,
+      "vol_ma5": 89221916.6,
+      "vol_ma20": 74607820.8,
+      "day_change": 3.3898305084745894,
+      "month_change": 6.550218340611358,
+      "score": 55.89003834834567,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (9.76 > 8.57)",
+        "成交量放大 1.20倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 72
+    },
+    {
+      "stock_code": "601375",
+      "stock_name": "中原证券",
+      "current_price": 4.15,
+      "ma10": 4.0600000000000005,
+      "ma20": 3.9975,
+      "ma60": 4.0075,
+      "vol_ma5": 70465597.6,
+      "vol_ma20": 63481438.5,
+      "day_change": 4.010025062656641,
+      "month_change": 1.2195121951219745,
+      "score": 55.71116656269495,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (4.15 > 3.68)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601555",
+      "stock_name": "东吴证券",
+      "current_price": 8.28,
+      "ma10": 7.954000000000001,
+      "ma20": 7.765000000000001,
+      "ma60": 8.040833333333333,
+      "vol_ma5": 58482163.2,
+      "vol_ma20": 52613916.4,
+      "day_change": 4.545454545454541,
+      "month_change": 8.804204993429687,
+      "score": 55.594880298476525,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.28 > 7.14)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000750",
+      "stock_name": "国海证券",
+      "current_price": 3.86,
+      "ma10": 3.747,
+      "ma20": 3.6689999999999996,
+      "ma60": 3.778666666666667,
+      "vol_ma5": 85145013.0,
+      "vol_ma20": 71488416.6,
+      "day_change": 4.891304347826075,
+      "month_change": 5.177111716621252,
+      "score": 55.43048694424841,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (3.86 > 3.38)",
+        "成交量放大 1.19倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601788",
+      "stock_name": "光大证券",
+      "current_price": 15.1,
+      "ma10": 14.722999999999999,
+      "ma20": 14.391,
+      "ma60": 14.836333333333332,
+      "vol_ma5": 52923919.4,
+      "vol_ma20": 44806909.9,
+      "day_change": 4.643104643104645,
+      "month_change": 6.039325842696619,
+      "score": 55.35543373250354,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (15.10 > 13.24)",
+        "成交量放大 1.18倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601059",
+      "stock_name": "信达证券",
+      "current_price": 16.75,
+      "ma10": 16.03,
+      "ma20": 15.871500000000001,
+      "ma60": 16.558333333333334,
+      "vol_ma5": 13281290.4,
+      "vol_ma20": 12092323.55,
+      "day_change": 3.458925262507706,
+      "month_change": -0.35693039857227493,
+      "score": 55.231504781077,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (16.75 > 14.60)",
+        "成交量放大 1.10倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002673",
+      "stock_name": "西部证券",
+      "current_price": 6.73,
+      "ma10": 6.616,
+      "ma20": 6.5120000000000005,
+      "ma60": 6.892666666666667,
+      "vol_ma5": 42610226.0,
+      "vol_ma20": 38310424.1,
+      "day_change": 3.6979969183358996,
+      "month_change": 2.7480916030534486,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.73 > 5.99)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601136",
+      "stock_name": "首创证券",
+      "current_price": 14.8,
+      "ma10": 14.346,
+      "ma20": 14.167499999999999,
+      "ma60": 15.409166666666668,
+      "vol_ma5": 17342846.6,
+      "vol_ma20": 14929446.0,
+      "day_change": 6.093189964157708,
+      "month_change": 3.424178895877006,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (14.80 > 13.03)",
+        "成交量放大 1.16倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002500",
+      "stock_name": "山西证券",
+      "current_price": 5.37,
+      "ma10": 5.244999999999999,
+      "ma20": 5.1605,
+      "ma60": 5.386833333333333,
+      "vol_ma5": 41759461.6,
+      "vol_ma20": 35566293.1,
+      "day_change": 4.069767441860472,
+      "month_change": 4.678362573099415,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (5.37 > 4.75)",
+        "成交量放大 1.17倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600155",
+      "stock_name": "华创云信",
+      "current_price": 5.74,
+      "ma10": 5.569999999999999,
+      "ma20": 5.498999999999999,
+      "ma60": 5.926666666666666,
+      "vol_ma5": 36222230.0,
+      "vol_ma20": 31731145.95,
+      "day_change": 3.9855072463768293,
+      "month_change": 2.8673835125448077,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (5.74 > 5.06)",
+        "成交量放大 1.14倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600864",
+      "stock_name": "哈投股份",
+      "current_price": 5.46,
+      "ma10": 5.3759999999999994,
+      "ma20": 5.326,
+      "ma60": 5.989666666666666,
+      "vol_ma5": 35326439.6,
+      "vol_ma20": 33637938.15,
+      "day_change": 5.2023121387283044,
+      "month_change": -0.727272727272732,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (5.46 > 4.90)",
+        "成交量放大 1.05倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002797",
+      "stock_name": "第一创业",
+      "current_price": 6.79,
+      "ma10": 6.63,
+      "ma20": 6.5455,
+      "ma60": 7.211,
+      "vol_ma5": 99105650.4,
+      "vol_ma20": 94460893.45,
+      "day_change": 3.348554033485529,
+      "month_change": 0.0,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (6.79 > 6.02)",
+        "成交量未明显放大 (1.05倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600621",
+      "stock_name": "华鑫股份",
+      "current_price": 13.44,
+      "ma10": 13.168000000000001,
+      "ma20": 12.836000000000002,
+      "ma60": 13.613166666666668,
+      "vol_ma5": 14501837.4,
+      "vol_ma20": 13972989.0,
+      "day_change": 4.024767801857587,
+      "month_change": 3.623747108712405,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (13.44 > 11.81)",
+        "成交量未明显放大 (1.04倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002939",
+      "stock_name": "长城证券",
+      "current_price": 8.61,
+      "ma10": 8.486,
+      "ma20": 8.297999999999998,
+      "ma60": 8.762333333333334,
+      "vol_ma5": 37970781.4,
+      "vol_ma20": 32591940.3,
+      "day_change": 3.237410071942448,
+      "month_change": 4.490291262135915,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.61 > 7.63)",
+        "成交量放大 1.17倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601236",
+      "stock_name": "红塔证券",
+      "current_price": 7.07,
+      "ma10": 6.9159999999999995,
+      "ma20": 6.845999999999999,
+      "ma60": 7.237499999999999,
+      "vol_ma5": 26807465.0,
+      "vol_ma20": 24159013.5,
+      "day_change": 3.665689149560114,
+      "month_change": 1.1444921316166035,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (7.07 > 6.30)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600673",
+      "stock_name": "东阳光",
+      "current_price": 36.94,
+      "ma10": 35.071,
+      "ma20": 34.094500000000004,
+      "ma60": 35.00683333333334,
+      "vol_ma5": 73547825.4,
+      "vol_ma20": 75997205.05,
+      "day_change": 10.005955926146504,
+      "month_change": 6.179936763437754,
+      "score": 46.10445103575016,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (36.94 > 31.37)",
+        "成交量未明显放大 (0.97倍)",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600109",
+      "stock_name": "国金证券",
+      "current_price": 9.14,
+      "ma10": 8.826,
+      "ma20": 8.505,
+      "ma60": 8.667333333333335,
+      "vol_ma5": 53396332.6,
+      "vol_ma20": 54233565.75,
+      "day_change": 4.10022779043282,
+      "month_change": 9.987966305655839,
+      "score": 46.09068533189755,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (9.14 > 7.82)",
+        "成交量未明显放大 (0.98倍)",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000712",
+      "stock_name": "锦龙股份",
+      "current_price": 9.21,
+      "ma10": 9.146,
+      "ma20": 9.0485,
+      "ma60": 10.094000000000001,
+      "vol_ma5": 26448875.0,
+      "vol_ma20": 35145364.9,
+      "day_change": 3.950338600451486,
+      "month_change": -6.875631951466121,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (9.21 > 8.32)",
+        "成交量未明显放大 (0.75倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601456",
+      "stock_name": "国联证券",
+      "current_price": 9.2,
+      "ma10": 9.173,
+      "ma20": 9.084,
+      "ma60": 9.209666666666667,
+      "vol_ma5": 42984378.0,
+      "vol_ma20": 51887822.55,
+      "day_change": 4.072398190045234,
+      "month_change": 5.022831050228316,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (9.20 > 8.36)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002670",
+      "stock_name": "国盛金控",
+      "current_price": 12.1,
+      "ma10": 11.725,
+      "ma20": 11.556500000000002,
+      "ma60": 12.500666666666667,
+      "vol_ma5": 32090469.6,
+      "vol_ma20": 33792946.0,
+      "day_change": 9.999999999999986,
+      "month_change": 8.228980322003586,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (12.10 > 10.63)",
+        "成交量未明显放大 (0.95倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600676",
+      "stock_name": "交运股份",
+      "current_price": 6.91,
+      "ma10": 6.751,
+      "ma20": 6.545,
+      "ma60": 7.247833333333333,
+      "vol_ma5": 13606059.6,
+      "vol_ma20": 13880641.8,
+      "day_change": 6.471494607087824,
+      "month_change": 7.800312012480504,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (6.91 > 6.02)",
+        "成交量未明显放大 (0.98倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002714",
+      "stock_name": "牧原股份",
+      "current_price": 36.98,
+      "ma10": 34.167,
+      "ma20": 34.511,
+      "ma60": 39.77599999999999,
+      "vol_ma5": 97755860.2,
+      "vol_ma20": 59786369.0,
+      "day_change": 5.687339239782774,
+      "month_change": 2.1546961325966674,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (36.98 > 31.75)",
+        "成交量放大 1.64倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "300498",
+      "stock_name": "温氏股份",
+      "current_price": 13.13,
+      "ma10": 12.357999999999999,
+      "ma20": 12.616999999999999,
+      "ma60": 14.590666666666667,
+      "vol_ma5": 83316148.6,
+      "vol_ma20": 55223667.4,
+      "day_change": 6.574675324675328,
+      "month_change": 0.15255530129671957,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (13.13 > 11.61)",
+        "成交量放大 1.51倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000833",
+      "stock_name": "粤桂股份",
+      "current_price": 24.71,
+      "ma10": 23.841,
+      "ma20": 23.808999999999997,
+      "ma60": 25.197000000000003,
+      "vol_ma5": 34101602.8,
+      "vol_ma20": 50111588.2,
+      "day_change": 5.50811272416738,
+      "month_change": 8.187390542907181,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (24.71 > 21.90)",
+        "成交量未明显放大 (0.68倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600881",
+      "stock_name": "亚泰集团",
+      "current_price": 1.56,
+      "ma10": 1.562,
+      "ma20": 1.6085,
+      "ma60": 1.5670000000000002,
+      "vol_ma5": 60661249.2,
+      "vol_ma20": 106146676.4,
+      "day_change": 3.31125827814569,
+      "month_change": 1.2987012987013102,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (1.56 > 1.48)",
+        "成交量未明显放大 (0.57倍)",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000876",
+      "stock_name": "新希望",
+      "current_price": 6.9,
+      "ma10": 6.252000000000001,
+      "ma20": 6.595999999999999,
+      "ma60": 7.829499999999999,
+      "vol_ma5": 66790107.4,
+      "vol_ma20": 48311547.6,
+      "day_change": 10.047846889952172,
+      "month_change": -9.210526315789469,
+      "score": 35.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (6.90 > 6.07)",
+        "成交量放大 1.38倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002157",
+      "stock_name": "正邦科技",
+      "current_price": 2.99,
+      "ma10": 2.876,
+      "ma20": 2.9685,
+      "ma60": 3.1775,
+      "vol_ma5": 168681094.0,
+      "vol_ma20": 140483238.4,
+      "day_change": 6.4056939501779375,
+      "month_change": -4.1666666666666625,
+      "score": 35.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (2.99 > 2.73)",
+        "成交量放大 1.20倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000609",
+      "stock_name": "中迪投资",
+      "current_price": 13.43,
+      "ma10": 12.044,
+      "ma20": 12.1155,
+      "ma60": 12.250333333333328,
+      "vol_ma5": 12192171.0,
+      "vol_ma20": 10821860.7,
+      "day_change": 5.003909304143872,
+      "month_change": 8.74493927125506,
+      "score": 31.925933988190806,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (13.43 > 11.15)",
+        "成交量放大 1.13倍",
+        "趋势向上: 价格 > MA60"
+      ],
+      "data_count": 80
+    }
+  ],
+  "all_stocks": [
+    {
+      "stock_code": "000551",
+      "stock_name": "创元科技",
+      "current_price": 21.0,
+      "ma10": 17.694,
+      "ma20": 16.402499999999996,
+      "ma60": 15.824666666666667,
+      "vol_ma5": 62410093.0,
+      "vol_ma20": 29543747.2,
+      "day_change": 1.7935046049442516,
+      "month_change": 37.07571801566581,
+      "score": 116.54084340902389,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (21.00 > 15.09)",
+        "成交量放大 2.11倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000783",
+      "stock_name": "长江证券",
+      "current_price": 10.54,
+      "ma10": 9.281,
+      "ma20": 8.4505,
+      "ma60": 8.016,
+      "vol_ma5": 405147159.4,
+      "vol_ma20": 216125953.6,
+      "day_change": 8.102564102564092,
+      "month_change": 33.926302414231245,
+      "score": 116.29740518962076,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (10.54 > 7.77)",
+        "成交量放大 1.87倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601066",
+      "stock_name": "中信建投",
+      "current_price": 30.01,
+      "ma10": 28.310000000000002,
+      "ma20": 26.714499999999997,
+      "ma60": 23.845333333333333,
+      "vol_ma5": 122069915.8,
+      "vol_ma20": 72667587.4,
+      "day_change": 3.2335741314069466,
+      "month_change": 17.455968688845402,
+      "score": 115.17054350257213,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (30.01 > 24.58)",
+        "成交量放大 1.68倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600909",
+      "stock_name": "华安证券",
+      "current_price": 12.22,
+      "ma10": 10.849,
+      "ma20": 9.161999999999999,
+      "ma60": 7.117000000000002,
+      "vol_ma5": 430578592.8,
+      "vol_ma20": 311626660.2,
+      "day_change": 9.990999099909992,
+      "month_change": 64.24731182795699,
+      "score": 114.34031192918364,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (12.22 > 8.43)",
+        "成交量放大 1.38倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601995",
+      "stock_name": "中金公司",
+      "current_price": 37.51,
+      "ma10": 35.501,
+      "ma20": 34.214499999999994,
+      "ma60": 33.9655,
+      "vol_ma5": 49044635.8,
+      "vol_ma20": 31009298.7,
+      "day_change": 3.7621023513139784,
+      "month_change": 10.486008836524285,
+      "score": 107.08711781071969,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (37.51 > 31.48)",
+        "成交量放大 1.58倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600999",
+      "stock_name": "招商证券",
+      "current_price": 22.94,
+      "ma10": 20.419999999999998,
+      "ma20": 18.948500000000003,
+      "ma60": 17.11116666666667,
+      "vol_ma5": 182195835.2,
+      "vol_ma20": 126275483.0,
+      "day_change": 8.720379146919433,
+      "month_change": 32.52455228191798,
+      "score": 106.81289995811701,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (22.94 > 17.43)",
+        "成交量放大 1.44倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000776",
+      "stock_name": "广发证券",
+      "current_price": 24.86,
+      "ma10": 22.775,
+      "ma20": 21.1465,
+      "ma60": 20.1835,
+      "vol_ma5": 153548421.0,
+      "vol_ma20": 123819337.4,
+      "day_change": 6.239316239316239,
+      "month_change": 28.941908713692932,
+      "score": 104.63398320410236,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (24.86 > 19.45)",
+        "成交量放大 1.24倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600030",
+      "stock_name": "中信证券",
+      "current_price": 29.47,
+      "ma10": 28.219,
+      "ma20": 27.078500000000002,
+      "ma60": 26.46066666666667,
+      "vol_ma5": 314025796.2,
+      "vol_ma20": 250504205.9,
+      "day_change": 2.575704838148263,
+      "month_change": 15.117187499999996,
+      "score": 97.27457106144969,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (29.47 > 24.91)",
+        "成交量放大 1.25倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000571",
+      "stock_name": "新大洲A",
+      "current_price": 6.64,
+      "ma10": 6.148999999999999,
+      "ma20": 5.805999999999999,
+      "ma60": 5.689666666666667,
+      "vol_ma5": 43541767.8,
+      "vol_ma20": 36477800.15,
+      "day_change": 4.897314375987349,
+      "month_change": 14.28571428571428,
+      "score": 93.34055890796179,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.64 > 5.34)",
+        "成交量放大 1.19倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600906",
+      "stock_name": "财达证券",
+      "current_price": 7.93,
+      "ma10": 7.629999999999998,
+      "ma20": 7.2415,
+      "ma60": 6.690833333333334,
+      "vol_ma5": 147266568.2,
+      "vol_ma20": 135278607.75,
+      "day_change": 6.300268096514738,
+      "month_change": 16.275659824046905,
+      "score": 88.7040727363308,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (7.93 > 6.66)",
+        "成交量放大 1.09倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601211",
+      "stock_name": "国泰君安",
+      "current_price": 19.12,
+      "ma10": 17.969,
+      "ma20": 17.432499999999997,
+      "ma60": 16.5855,
+      "vol_ma5": 193359837.2,
+      "vol_ma20": 172261132.0,
+      "day_change": 5.054945054945059,
+      "month_change": 17.156862745098046,
+      "score": 88.05628410358446,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (19.12 > 16.04)",
+        "成交量放大 1.12倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000048",
+      "stock_name": "京基智农",
+      "current_price": 22.5,
+      "ma10": 20.952,
+      "ma20": 18.817999999999998,
+      "ma60": 16.087833333333336,
+      "vol_ma5": 27994484.4,
+      "vol_ma20": 32804628.25,
+      "day_change": 1.856043458578549,
+      "month_change": 56.35858234885336,
+      "score": 87.97144840303748,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (22.50 > 17.31)",
+        "成交量未明显放大 (0.85倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601377",
+      "stock_name": "兴业证券",
+      "current_price": 6.27,
+      "ma10": 6.106999999999999,
+      "ma20": 6.0015,
+      "ma60": 5.951666666666667,
+      "vol_ma5": 169353611.6,
+      "vol_ma20": 141714986.95,
+      "day_change": 3.8079470198675525,
+      "month_change": 8.665511265164639,
+      "score": 86.06972836740408,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.27 > 5.52)",
+        "成交量放大 1.20倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601108",
+      "stock_name": "财通证券",
+      "current_price": 9.21,
+      "ma10": 8.406,
+      "ma20": 8.0275,
+      "ma60": 8.144166666666667,
+      "vol_ma5": 127038385.0,
+      "vol_ma20": 81685141.95,
+      "day_change": 6.473988439306355,
+      "month_change": 16.730038022813698,
+      "score": 82.61741532794434,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (9.21 > 7.39)",
+        "成交量放大 1.56倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600770",
+      "stock_name": "综艺股份",
+      "current_price": 6.85,
+      "ma10": 6.387,
+      "ma20": 6.145999999999999,
+      "ma60": 6.462833333333333,
+      "vol_ma5": 102088573.6,
+      "vol_ma20": 54391082.9,
+      "day_change": -2.1428571428571463,
+      "month_change": 12.85008237232288,
+      "score": 81.19813291384068,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.85 > 5.65)",
+        "成交量放大 1.88倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601688",
+      "stock_name": "华泰证券",
+      "current_price": 21.64,
+      "ma10": 20.826999999999998,
+      "ma20": 20.1155,
+      "ma60": 19.201666666666668,
+      "vol_ma5": 149475902.2,
+      "vol_ma20": 150970225.1,
+      "day_change": 4.946653734238593,
+      "month_change": 13.179916317991625,
+      "score": 77.53971009460984,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (21.64 > 18.51)",
+        "成交量未明显放大 (0.99倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601901",
+      "stock_name": "方正证券",
+      "current_price": 7.48,
+      "ma10": 7.117,
+      "ma20": 6.8565,
+      "ma60": 6.9799999999999995,
+      "vol_ma5": 180128483.6,
+      "vol_ma20": 110824354.85,
+      "day_change": 3.8888888888888973,
+      "month_change": 12.650602409638555,
+      "score": 76.432664756447,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (7.48 > 6.31)",
+        "成交量放大 1.63倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000728",
+      "stock_name": "国元证券",
+      "current_price": 7.83,
+      "ma10": 7.476999999999999,
+      "ma20": 7.212000000000001,
+      "ma60": 7.3406666666666665,
+      "vol_ma5": 93472288.0,
+      "vol_ma20": 57051863.7,
+      "day_change": 4.539385847797051,
+      "month_change": 9.971910112359538,
+      "score": 76.33321224230315,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (7.83 > 6.64)",
+        "成交量放大 1.64倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "300059",
+      "stock_name": "东方财富",
+      "current_price": 21.45,
+      "ma10": 20.279999999999998,
+      "ma20": 19.286,
+      "ma60": 19.675333333333334,
+      "vol_ma5": 682141676.0,
+      "vol_ma20": 516327960.3,
+      "day_change": 5.2502453385672165,
+      "month_change": 13.432046536224206,
+      "score": 71.80395080134178,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (21.45 > 17.74)",
+        "成交量放大 1.32倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601162",
+      "stock_name": "天风证券",
+      "current_price": 3.71,
+      "ma10": 3.4339999999999997,
+      "ma20": 3.3125,
+      "ma60": 3.536833333333334,
+      "vol_ma5": 316017732.8,
+      "vol_ma20": 229239156.4,
+      "day_change": 10.089020771513347,
+      "month_change": 12.424242424242426,
+      "score": 70.97921869845906,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (3.71 > 3.05)",
+        "成交量放大 1.38倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601198",
+      "stock_name": "东兴证券",
+      "current_price": 13.99,
+      "ma10": 13.379000000000001,
+      "ma20": 13.041500000000003,
+      "ma60": 13.045333333333334,
+      "vol_ma5": 34331465.4,
+      "vol_ma20": 26740692.3,
+      "day_change": 2.94334069168507,
+      "month_change": 6.631097560975618,
+      "score": 66.4482829108749,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (13.99 > 12.00)",
+        "成交量放大 1.28倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000686",
+      "stock_name": "东北证券",
+      "current_price": 8.75,
+      "ma10": 8.412,
+      "ma20": 8.067,
+      "ma60": 8.220166666666666,
+      "vol_ma5": 51441777.6,
+      "vol_ma20": 39696201.05,
+      "day_change": 4.166666666666652,
+      "month_change": 10.340479192938211,
+      "score": 66.28910606029886,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.75 > 7.42)",
+        "成交量放大 1.30倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601881",
+      "stock_name": "中国银河",
+      "current_price": 13.13,
+      "ma10": 12.718,
+      "ma20": 12.4625,
+      "ma60": 12.592166666666667,
+      "vol_ma5": 84495805.6,
+      "vol_ma20": 62666461.0,
+      "day_change": 4.4550517104216425,
+      "month_change": 6.661251015434599,
+      "score": 65.854234775588,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (13.13 > 11.47)",
+        "成交量放大 1.35倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601878",
+      "stock_name": "浙商证券",
+      "current_price": 9.87,
+      "ma10": 9.561000000000002,
+      "ma20": 9.379499999999998,
+      "ma60": 9.5295,
+      "vol_ma5": 66143197.0,
+      "vol_ma20": 44632092.05,
+      "day_change": 3.894736842105262,
+      "month_change": 6.243272335844985,
+      "score": 65.71462301274988,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (9.87 > 8.63)",
+        "成交量放大 1.48倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600369",
+      "stock_name": "西南证券",
+      "current_price": 4.21,
+      "ma10": 4.092,
+      "ma20": 4.016,
+      "ma60": 4.108833333333334,
+      "vol_ma5": 66896117.4,
+      "vol_ma20": 53764285.75,
+      "day_change": 4.726368159203997,
+      "month_change": 5.778894472361817,
+      "score": 65.49243499776904,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (4.21 > 3.69)",
+        "成交量放大 1.24倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002926",
+      "stock_name": "华西证券",
+      "current_price": 8.5,
+      "ma10": 8.288,
+      "ma20": 8.120999999999999,
+      "ma60": 8.345666666666666,
+      "vol_ma5": 27258808.6,
+      "vol_ma20": 22123736.85,
+      "day_change": 4.039167686658507,
+      "month_change": 4.938271604938271,
+      "score": 65.36985261812518,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.50 > 7.47)",
+        "成交量放大 1.23倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600061",
+      "stock_name": "国投资本",
+      "current_price": 6.64,
+      "ma10": 6.586999999999999,
+      "ma20": 6.4719999999999995,
+      "ma60": 6.598833333333332,
+      "vol_ma5": 67529903.0,
+      "vol_ma20": 51269902.05,
+      "day_change": 1.3740458015267132,
+      "month_change": 3.5881435257410166,
+      "score": 65.12476952996742,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.64 > 5.95)",
+        "成交量放大 1.32倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000166",
+      "stock_name": "申万宏源",
+      "current_price": 4.59,
+      "ma10": 4.517,
+      "ma20": 4.4655000000000005,
+      "ma60": 4.574666666666665,
+      "vol_ma5": 165412500.2,
+      "vol_ma20": 133130584.55,
+      "day_change": 4.318181818181799,
+      "month_change": 4.081632653061207,
+      "score": 65.06703584960654,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (4.59 > 4.11)",
+        "成交量放大 1.24倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002736",
+      "stock_name": "国信证券",
+      "current_price": 10.43,
+      "ma10": 10.252,
+      "ma20": 10.1775,
+      "ma60": 10.663333333333332,
+      "vol_ma5": 56595607.6,
+      "vol_ma20": 41575350.5,
+      "day_change": 4.404404404404394,
+      "month_change": 3.2673267326732702,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (10.43 > 9.36)",
+        "成交量放大 1.36倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601990",
+      "stock_name": "南京证券",
+      "current_price": 6.78,
+      "ma10": 6.699,
+      "ma20": 6.616499999999999,
+      "ma60": 6.999833333333332,
+      "vol_ma5": 38570474.6,
+      "vol_ma20": 27738740.0,
+      "day_change": 3.1963470319634757,
+      "month_change": 2.571860816944027,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.78 > 6.09)",
+        "成交量放大 1.39倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002945",
+      "stock_name": "华林证券",
+      "current_price": 14.08,
+      "ma10": 13.992,
+      "ma20": 13.947999999999999,
+      "ma60": 14.951833333333333,
+      "vol_ma5": 14798302.0,
+      "vol_ma20": 12076249.15,
+      "day_change": 4.839910647803425,
+      "month_change": -1.331464611072175,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (14.08 > 12.83)",
+        "成交量放大 1.23倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600918",
+      "stock_name": "中泰证券",
+      "current_price": 5.5,
+      "ma10": 5.364,
+      "ma20": 5.3260000000000005,
+      "ma60": 5.707666666666666,
+      "vol_ma5": 67302562.6,
+      "vol_ma20": 54284327.25,
+      "day_change": 3.383458646616533,
+      "month_change": 1.2891344383057168,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (5.50 > 4.90)",
+        "成交量放大 1.24倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601099",
+      "stock_name": "太平洋",
+      "current_price": 3.53,
+      "ma10": 3.403,
+      "ma20": 3.3235,
+      "ma60": 3.548,
+      "vol_ma5": 198744676.4,
+      "vol_ma20": 164533566.9,
+      "day_change": 4.7477744807121525,
+      "month_change": 6.969696969696959,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (3.53 > 3.06)",
+        "成交量放大 1.21倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600095",
+      "stock_name": "湘财股份",
+      "current_price": 8.03,
+      "ma10": 7.904999999999999,
+      "ma20": 7.8775,
+      "ma60": 8.663166666666665,
+      "vol_ma5": 38572459.4,
+      "vol_ma20": 30567081.15,
+      "day_change": 6.640106241699861,
+      "month_change": -1.5931372549019662,
+      "score": 65.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.03 > 7.25)",
+        "成交量放大 1.26倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601696",
+      "stock_name": "中银证券",
+      "current_price": 13.16,
+      "ma10": 12.922,
+      "ma20": 12.1015,
+      "ma60": 12.160499999999997,
+      "vol_ma5": 100599573.2,
+      "vol_ma20": 90984762.0,
+      "day_change": 4.031620553359683,
+      "month_change": 17.186108637577924,
+      "score": 56.64384688129601,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (13.16 > 11.13)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600958",
+      "stock_name": "东方证券",
+      "current_price": 9.76,
+      "ma10": 9.562000000000001,
+      "ma20": 9.314,
+      "ma60": 9.344166666666666,
+      "vol_ma5": 89221916.6,
+      "vol_ma20": 74607820.8,
+      "day_change": 3.3898305084745894,
+      "month_change": 6.550218340611358,
+      "score": 55.89003834834567,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (9.76 > 8.57)",
+        "成交量放大 1.20倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 72
+    },
+    {
+      "stock_code": "601375",
+      "stock_name": "中原证券",
+      "current_price": 4.15,
+      "ma10": 4.0600000000000005,
+      "ma20": 3.9975,
+      "ma60": 4.0075,
+      "vol_ma5": 70465597.6,
+      "vol_ma20": 63481438.5,
+      "day_change": 4.010025062656641,
+      "month_change": 1.2195121951219745,
+      "score": 55.71116656269495,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (4.15 > 3.68)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601555",
+      "stock_name": "东吴证券",
+      "current_price": 8.28,
+      "ma10": 7.954000000000001,
+      "ma20": 7.765000000000001,
+      "ma60": 8.040833333333333,
+      "vol_ma5": 58482163.2,
+      "vol_ma20": 52613916.4,
+      "day_change": 4.545454545454541,
+      "month_change": 8.804204993429687,
+      "score": 55.594880298476525,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.28 > 7.14)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000750",
+      "stock_name": "国海证券",
+      "current_price": 3.86,
+      "ma10": 3.747,
+      "ma20": 3.6689999999999996,
+      "ma60": 3.778666666666667,
+      "vol_ma5": 85145013.0,
+      "vol_ma20": 71488416.6,
+      "day_change": 4.891304347826075,
+      "month_change": 5.177111716621252,
+      "score": 55.43048694424841,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (3.86 > 3.38)",
+        "成交量放大 1.19倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601788",
+      "stock_name": "光大证券",
+      "current_price": 15.1,
+      "ma10": 14.722999999999999,
+      "ma20": 14.391,
+      "ma60": 14.836333333333332,
+      "vol_ma5": 52923919.4,
+      "vol_ma20": 44806909.9,
+      "day_change": 4.643104643104645,
+      "month_change": 6.039325842696619,
+      "score": 55.35543373250354,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (15.10 > 13.24)",
+        "成交量放大 1.18倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601059",
+      "stock_name": "信达证券",
+      "current_price": 16.75,
+      "ma10": 16.03,
+      "ma20": 15.871500000000001,
+      "ma60": 16.558333333333334,
+      "vol_ma5": 13281290.4,
+      "vol_ma20": 12092323.55,
+      "day_change": 3.458925262507706,
+      "month_change": -0.35693039857227493,
+      "score": 55.231504781077,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (16.75 > 14.60)",
+        "成交量放大 1.10倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002673",
+      "stock_name": "西部证券",
+      "current_price": 6.73,
+      "ma10": 6.616,
+      "ma20": 6.5120000000000005,
+      "ma60": 6.892666666666667,
+      "vol_ma5": 42610226.0,
+      "vol_ma20": 38310424.1,
+      "day_change": 3.6979969183358996,
+      "month_change": 2.7480916030534486,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (6.73 > 5.99)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601136",
+      "stock_name": "首创证券",
+      "current_price": 14.8,
+      "ma10": 14.346,
+      "ma20": 14.167499999999999,
+      "ma60": 15.409166666666668,
+      "vol_ma5": 17342846.6,
+      "vol_ma20": 14929446.0,
+      "day_change": 6.093189964157708,
+      "month_change": 3.424178895877006,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (14.80 > 13.03)",
+        "成交量放大 1.16倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002500",
+      "stock_name": "山西证券",
+      "current_price": 5.37,
+      "ma10": 5.244999999999999,
+      "ma20": 5.1605,
+      "ma60": 5.386833333333333,
+      "vol_ma5": 41759461.6,
+      "vol_ma20": 35566293.1,
+      "day_change": 4.069767441860472,
+      "month_change": 4.678362573099415,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (5.37 > 4.75)",
+        "成交量放大 1.17倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600155",
+      "stock_name": "华创云信",
+      "current_price": 5.74,
+      "ma10": 5.569999999999999,
+      "ma20": 5.498999999999999,
+      "ma60": 5.926666666666666,
+      "vol_ma5": 36222230.0,
+      "vol_ma20": 31731145.95,
+      "day_change": 3.9855072463768293,
+      "month_change": 2.8673835125448077,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (5.74 > 5.06)",
+        "成交量放大 1.14倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600864",
+      "stock_name": "哈投股份",
+      "current_price": 5.46,
+      "ma10": 5.3759999999999994,
+      "ma20": 5.326,
+      "ma60": 5.989666666666666,
+      "vol_ma5": 35326439.6,
+      "vol_ma20": 33637938.15,
+      "day_change": 5.2023121387283044,
+      "month_change": -0.727272727272732,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (5.46 > 4.90)",
+        "成交量放大 1.05倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002797",
+      "stock_name": "第一创业",
+      "current_price": 6.79,
+      "ma10": 6.63,
+      "ma20": 6.5455,
+      "ma60": 7.211,
+      "vol_ma5": 99105650.4,
+      "vol_ma20": 94460893.45,
+      "day_change": 3.348554033485529,
+      "month_change": 0.0,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (6.79 > 6.02)",
+        "成交量未明显放大 (1.05倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600621",
+      "stock_name": "华鑫股份",
+      "current_price": 13.44,
+      "ma10": 13.168000000000001,
+      "ma20": 12.836000000000002,
+      "ma60": 13.613166666666668,
+      "vol_ma5": 14501837.4,
+      "vol_ma20": 13972989.0,
+      "day_change": 4.024767801857587,
+      "month_change": 3.623747108712405,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (13.44 > 11.81)",
+        "成交量未明显放大 (1.04倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002939",
+      "stock_name": "长城证券",
+      "current_price": 8.61,
+      "ma10": 8.486,
+      "ma20": 8.297999999999998,
+      "ma60": 8.762333333333334,
+      "vol_ma5": 37970781.4,
+      "vol_ma20": 32591940.3,
+      "day_change": 3.237410071942448,
+      "month_change": 4.490291262135915,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.61 > 7.63)",
+        "成交量放大 1.17倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601236",
+      "stock_name": "红塔证券",
+      "current_price": 7.07,
+      "ma10": 6.9159999999999995,
+      "ma20": 6.845999999999999,
+      "ma60": 7.237499999999999,
+      "vol_ma5": 26807465.0,
+      "vol_ma20": 24159013.5,
+      "day_change": 3.665689149560114,
+      "month_change": 1.1444921316166035,
+      "score": 55.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (7.07 > 6.30)",
+        "成交量放大 1.11倍",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600673",
+      "stock_name": "东阳光",
+      "current_price": 36.94,
+      "ma10": 35.071,
+      "ma20": 34.094500000000004,
+      "ma60": 35.00683333333334,
+      "vol_ma5": 73547825.4,
+      "vol_ma20": 75997205.05,
+      "day_change": 10.005955926146504,
+      "month_change": 6.179936763437754,
+      "score": 46.10445103575016,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (36.94 > 31.37)",
+        "成交量未明显放大 (0.97倍)",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600109",
+      "stock_name": "国金证券",
+      "current_price": 9.14,
+      "ma10": 8.826,
+      "ma20": 8.505,
+      "ma60": 8.667333333333335,
+      "vol_ma5": 53396332.6,
+      "vol_ma20": 54233565.75,
+      "day_change": 4.10022779043282,
+      "month_change": 9.987966305655839,
+      "score": 46.09068533189755,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (9.14 > 7.82)",
+        "成交量未明显放大 (0.98倍)",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000712",
+      "stock_name": "锦龙股份",
+      "current_price": 9.21,
+      "ma10": 9.146,
+      "ma20": 9.0485,
+      "ma60": 10.094000000000001,
+      "vol_ma5": 26448875.0,
+      "vol_ma20": 35145364.9,
+      "day_change": 3.950338600451486,
+      "month_change": -6.875631951466121,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (9.21 > 8.32)",
+        "成交量未明显放大 (0.75倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601456",
+      "stock_name": "国联证券",
+      "current_price": 9.2,
+      "ma10": 9.173,
+      "ma20": 9.084,
+      "ma60": 9.209666666666667,
+      "vol_ma5": 42984378.0,
+      "vol_ma20": 51887822.55,
+      "day_change": 4.072398190045234,
+      "month_change": 5.022831050228316,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (9.20 > 8.36)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002670",
+      "stock_name": "国盛金控",
+      "current_price": 12.1,
+      "ma10": 11.725,
+      "ma20": 11.556500000000002,
+      "ma60": 12.500666666666667,
+      "vol_ma5": 32090469.6,
+      "vol_ma20": 33792946.0,
+      "day_change": 9.999999999999986,
+      "month_change": 8.228980322003586,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (12.10 > 10.63)",
+        "成交量未明显放大 (0.95倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600676",
+      "stock_name": "交运股份",
+      "current_price": 6.91,
+      "ma10": 6.751,
+      "ma20": 6.545,
+      "ma60": 7.247833333333333,
+      "vol_ma5": 13606059.6,
+      "vol_ma20": 13880641.8,
+      "day_change": 6.471494607087824,
+      "month_change": 7.800312012480504,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (6.91 > 6.02)",
+        "成交量未明显放大 (0.98倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002714",
+      "stock_name": "牧原股份",
+      "current_price": 36.98,
+      "ma10": 34.167,
+      "ma20": 34.511,
+      "ma60": 39.77599999999999,
+      "vol_ma5": 97755860.2,
+      "vol_ma20": 59786369.0,
+      "day_change": 5.687339239782774,
+      "month_change": 2.1546961325966674,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (36.98 > 31.75)",
+        "成交量放大 1.64倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "300498",
+      "stock_name": "温氏股份",
+      "current_price": 13.13,
+      "ma10": 12.357999999999999,
+      "ma20": 12.616999999999999,
+      "ma60": 14.590666666666667,
+      "vol_ma5": 83316148.6,
+      "vol_ma20": 55223667.4,
+      "day_change": 6.574675324675328,
+      "month_change": 0.15255530129671957,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (13.13 > 11.61)",
+        "成交量放大 1.51倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000833",
+      "stock_name": "粤桂股份",
+      "current_price": 24.71,
+      "ma10": 23.841,
+      "ma20": 23.808999999999997,
+      "ma60": 25.197000000000003,
+      "vol_ma5": 34101602.8,
+      "vol_ma20": 50111588.2,
+      "day_change": 5.50811272416738,
+      "month_change": 8.187390542907181,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (24.71 > 21.90)",
+        "成交量未明显放大 (0.68倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600881",
+      "stock_name": "亚泰集团",
+      "current_price": 1.56,
+      "ma10": 1.562,
+      "ma20": 1.6085,
+      "ma60": 1.5670000000000002,
+      "vol_ma5": 60661249.2,
+      "vol_ma20": 106146676.4,
+      "day_change": 3.31125827814569,
+      "month_change": 1.2987012987013102,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (1.56 > 1.48)",
+        "成交量未明显放大 (0.57倍)",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000876",
+      "stock_name": "新希望",
+      "current_price": 6.9,
+      "ma10": 6.252000000000001,
+      "ma20": 6.595999999999999,
+      "ma60": 7.829499999999999,
+      "vol_ma5": 66790107.4,
+      "vol_ma20": 48311547.6,
+      "day_change": 10.047846889952172,
+      "month_change": -9.210526315789469,
+      "score": 35.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (6.90 > 6.07)",
+        "成交量放大 1.38倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002157",
+      "stock_name": "正邦科技",
+      "current_price": 2.99,
+      "ma10": 2.876,
+      "ma20": 2.9685,
+      "ma60": 3.1775,
+      "vol_ma5": 168681094.0,
+      "vol_ma20": 140483238.4,
+      "day_change": 6.4056939501779375,
+      "month_change": -4.1666666666666625,
+      "score": 35.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (2.99 > 2.73)",
+        "成交量放大 1.20倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000609",
+      "stock_name": "中迪投资",
+      "current_price": 13.43,
+      "ma10": 12.044,
+      "ma20": 12.1155,
+      "ma60": 12.250333333333328,
+      "vol_ma5": 12192171.0,
+      "vol_ma20": 10821860.7,
+      "day_change": 5.003909304143872,
+      "month_change": 8.74493927125506,
+      "score": 31.925933988190806,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (13.43 > 11.15)",
+        "成交量放大 1.13倍",
+        "趋势向上: 价格 > MA60"
+      ],
+      "data_count": 80
+    },
+    {
+      "stock_code": "000998",
+      "stock_name": "隆平高科",
+      "current_price": 7.71,
+      "ma10": 7.728,
+      "ma20": 8.008500000000002,
+      "ma60": 8.8415,
+      "vol_ma5": 18607430.4,
+      "vol_ma20": 15005286.3,
+      "day_change": 2.2546419098143256,
+      "month_change": -9.929906542056077,
+      "score": 30.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (7.71 > 7.37)",
+        "成交量放大 1.24倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000042",
+      "stock_name": "中洲控股",
+      "current_price": 7.66,
+      "ma10": 8.758,
+      "ma20": 9.117500000000001,
+      "ma60": 9.332166666666668,
+      "vol_ma5": 12454474.4,
+      "vol_ma20": 7972889.6,
+      "day_change": 0.13071895424836555,
+      "month_change": -22.626262626262626,
+      "score": 30.0,
+      "selected": false,
+      "conditions": [
+        false,
+        true,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量放大 1.56倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600805",
+      "stock_name": "悦达投资",
+      "current_price": 4.19,
+      "ma10": 4.298,
+      "ma20": 4.394500000000001,
+      "ma60": 4.873666666666666,
+      "vol_ma5": 10586894.8,
+      "vol_ma20": 8718765.3,
+      "day_change": 3.970223325062028,
+      "month_change": -10.085836909871237,
+      "score": 30.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (4.19 > 4.04)",
+        "成交量放大 1.21倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002311",
+      "stock_name": "海大集团",
+      "current_price": 45.99,
+      "ma10": 42.971000000000004,
+      "ma20": 43.7225,
+      "ma60": 46.43149999999999,
+      "vol_ma5": 11477095.6,
+      "vol_ma20": 10436310.65,
+      "day_change": 3.093476798924022,
+      "month_change": -0.605143721633894,
+      "score": 25.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (45.99 > 40.22)",
+        "成交量放大 1.10倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002299",
+      "stock_name": "圣农发展",
+      "current_price": 15.95,
+      "ma10": 15.671999999999997,
+      "ma20": 15.952000000000002,
+      "ma60": 17.395333333333333,
+      "vol_ma5": 11787061.8,
+      "vol_ma20": 9886267.1,
+      "day_change": 5.211081794195249,
+      "month_change": -5.002977963073252,
+      "score": 20.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (15.95 > 14.68)",
+        "成交量放大 1.19倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002385",
+      "stock_name": "大北农",
+      "current_price": 2.96,
+      "ma10": 2.8259999999999996,
+      "ma20": 2.9924999999999997,
+      "ma60": 3.5100000000000002,
+      "vol_ma5": 99533644.2,
+      "vol_ma20": 85672407.75,
+      "day_change": 7.246376811594213,
+      "month_change": -10.843373493975905,
+      "score": 20.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (2.96 > 2.75)",
+        "成交量放大 1.16倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600603",
+      "stock_name": "广汇物流",
+      "current_price": 4.43,
+      "ma10": 4.382,
+      "ma20": 4.536,
+      "ma60": 5.540000000000001,
+      "vol_ma5": 18554252.0,
+      "vol_ma20": 17331820.45,
+      "day_change": 1.839080459770126,
+      "month_change": -8.659793814432993,
+      "score": 20.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (4.43 > 4.17)",
+        "成交量放大 1.07倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000753",
+      "stock_name": "漳州发展",
+      "current_price": 4.66,
+      "ma10": 4.688000000000001,
+      "ma20": 4.895999999999999,
+      "ma60": 5.913666666666668,
+      "vol_ma5": 19699086.8,
+      "vol_ma20": 17867103.55,
+      "day_change": 3.786191536748329,
+      "month_change": -12.406015037593987,
+      "score": 20.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (4.66 > 4.50)",
+        "成交量放大 1.10倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600784",
+      "stock_name": "鲁银投资",
+      "current_price": 7.15,
+      "ma10": 6.781999999999999,
+      "ma20": 6.9879999999999995,
+      "ma60": 7.350333333333333,
+      "vol_ma5": 8320555.4,
+      "vol_ma20": 9426773.9,
+      "day_change": 10.000000000000009,
+      "month_change": -3.378378378378377,
+      "score": 15.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (7.15 > 6.43)",
+        "成交量未明显放大 (0.88倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000652",
+      "stock_name": "泰达股份",
+      "current_price": 3.45,
+      "ma10": 3.4560000000000004,
+      "ma20": 3.5175000000000005,
+      "ma60": 3.898833333333333,
+      "vol_ma5": 10575325.8,
+      "vol_ma20": 12740859.7,
+      "day_change": 1.1730205278592365,
+      "month_change": -6.25,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (3.45 > 3.24)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600694",
+      "stock_name": "大商股份",
+      "current_price": 13.5,
+      "ma10": 13.776,
+      "ma20": 14.150000000000002,
+      "ma60": 16.234,
+      "vol_ma5": 3602241.2,
+      "vol_ma20": 3744332.9,
+      "day_change": 2.0408163265306145,
+      "month_change": -9.335124244459369,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (13.50 > 13.02)",
+        "成交量未明显放大 (0.96倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600201",
+      "stock_name": "生物股份",
+      "current_price": 11.8,
+      "ma10": 11.858,
+      "ma20": 11.8875,
+      "ma60": 13.334166666666667,
+      "vol_ma5": 19732582.2,
+      "vol_ma20": 22317492.9,
+      "day_change": 1.2875536480686733,
+      "month_change": 2.341717259323506,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (11.80 > 10.94)",
+        "成交量未明显放大 (0.88倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000036",
+      "stock_name": "华联控股",
+      "current_price": 4.41,
+      "ma10": 4.736999999999999,
+      "ma20": 4.910500000000001,
+      "ma60": 5.186000000000002,
+      "vol_ma5": 27898251.0,
+      "vol_ma20": 25553627.25,
+      "day_change": 0.9153318077803174,
+      "month_change": -12.845849802371534,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        false,
+        true,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量放大 1.09倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000409",
+      "stock_name": "云鼎科技",
+      "current_price": 8.43,
+      "ma10": 8.581999999999999,
+      "ma20": 8.9085,
+      "ma60": 9.792666666666664,
+      "vol_ma5": 6547051.6,
+      "vol_ma20": 5954385.65,
+      "day_change": 2.430133657351141,
+      "month_change": -12.370062370062362,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (8.43 > 8.20)",
+        "成交量放大 1.10倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600128",
+      "stock_name": "弘业股份",
+      "current_price": 7.8,
+      "ma10": 8.061,
+      "ma20": 8.421999999999999,
+      "ma60": 9.602,
+      "vol_ma5": 4251691.0,
+      "vol_ma20": 4114102.9,
+      "day_change": 2.7667984189723382,
+      "month_change": -13.716814159292035,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (7.80 > 7.75)",
+        "成交量未明显放大 (1.03倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600620",
+      "stock_name": "天宸股份",
+      "current_price": 4.08,
+      "ma10": 4.124,
+      "ma20": 4.332999999999999,
+      "ma60": 5.2188333333333325,
+      "vol_ma5": 8266187.0,
+      "vol_ma20": 7288576.6,
+      "day_change": 3.2911392405063244,
+      "month_change": -12.633832976445392,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (4.08 > 3.99)",
+        "成交量放大 1.13倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000421",
+      "stock_name": "南京公用",
+      "current_price": 5.1,
+      "ma10": 5.187,
+      "ma20": 5.3905,
+      "ma60": 5.902333333333333,
+      "vol_ma5": 6717197.0,
+      "vol_ma20": 6146714.25,
+      "day_change": 2.8225806451612767,
+      "month_change": -13.117546848381611,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (5.10 > 4.96)",
+        "成交量放大 1.09倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000532",
+      "stock_name": "华金资本",
+      "current_price": 11.15,
+      "ma10": 11.306000000000001,
+      "ma20": 11.702,
+      "ma60": 12.57,
+      "vol_ma5": 5985561.4,
+      "vol_ma20": 9710362.2,
+      "day_change": 3.8175046554934866,
+      "month_change": -6.5381391450125665,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (11.15 > 10.77)",
+        "成交量未明显放大 (0.62倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600834",
+      "stock_name": "申通地铁",
+      "current_price": 6.72,
+      "ma10": 6.836,
+      "ma20": 7.0515,
+      "ma60": 7.745166666666666,
+      "vol_ma5": 1921020.6,
+      "vol_ma20": 1985651.8,
+      "day_change": 2.127659574468077,
+      "month_change": -9.31174089068827,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (6.72 > 6.49)",
+        "成交量未明显放大 (0.97倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600697",
+      "stock_name": "欧亚集团",
+      "current_price": 9.99,
+      "ma10": 10.093,
+      "ma20": 10.532500000000002,
+      "ma60": 11.516,
+      "vol_ma5": 3793336.2,
+      "vol_ma20": 3784084.6,
+      "day_change": 2.777777777777768,
+      "month_change": -11.592920353982306,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (9.99 > 9.69)",
+        "成交量未明显放大 (1.00倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000009",
+      "stock_name": "中国宝安",
+      "current_price": 6.27,
+      "ma10": 6.552999999999999,
+      "ma20": 6.7985,
+      "ma60": 7.856166666666666,
+      "vol_ma5": 26775597.4,
+      "vol_ma20": 25469146.35,
+      "day_change": 0.6420545746388395,
+      "month_change": -13.037447988904304,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (6.27 > 6.25)",
+        "成交量放大 1.05倍",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "002575",
+      "stock_name": "群兴玩具",
+      "current_price": 5.8,
+      "ma10": 5.9079999999999995,
+      "ma20": 5.936999999999999,
+      "ma60": 6.495666666666667,
+      "vol_ma5": 38404334.2,
+      "vol_ma20": 50209469.3,
+      "day_change": 1.3986013986013957,
+      "month_change": -2.1922428330522714,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (5.80 > 5.46)",
+        "成交量未明显放大 (0.76倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600051",
+      "stock_name": "宁波联合",
+      "current_price": 5.85,
+      "ma10": 5.894,
+      "ma20": 6.138999999999999,
+      "ma60": 6.998166666666667,
+      "vol_ma5": 5300775.4,
+      "vol_ma20": 5368888.8,
+      "day_change": 3.9076376554173953,
+      "month_change": -11.497730711043886,
+      "score": 10.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (5.85 > 5.65)",
+        "成交量未明显放大 (0.99倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600693",
+      "stock_name": "东百集团",
+      "current_price": 8.17,
+      "ma10": 8.157,
+      "ma20": 8.7925,
+      "ma60": 10.173166666666667,
+      "vol_ma5": 32733866.4,
+      "vol_ma20": 54662052.8,
+      "day_change": 4.2091836734693855,
+      "month_change": -21.593090211132438,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (8.17 > 8.09)",
+        "成交量未明显放大 (0.60倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600683",
+      "stock_name": "京投发展",
+      "current_price": 11.47,
+      "ma10": 12.228,
+      "ma20": 13.053,
+      "ma60": 13.603833333333332,
+      "vol_ma5": 20127406.2,
+      "vol_ma20": 24981478.1,
+      "day_change": -0.2608695652173809,
+      "month_change": -26.61548304542546,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.81倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601118",
+      "stock_name": "海南橡胶",
+      "current_price": 5.03,
+      "ma10": 5.287000000000001,
+      "ma20": 5.694000000000001,
+      "ma60": 6.451,
+      "vol_ma5": 69842583.0,
+      "vol_ma20": 71871142.45,
+      "day_change": 2.2357723577235866,
+      "month_change": -28.551136363636363,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.97倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000573",
+      "stock_name": "粤宏远A",
+      "current_price": 3.54,
+      "ma10": 3.779000000000001,
+      "ma20": 3.9890000000000008,
+      "ma60": 4.418333333333335,
+      "vol_ma5": 19303298.4,
+      "vol_ma20": 21470300.15,
+      "day_change": 0.0,
+      "month_change": -16.113744075829374,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.90倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000558",
+      "stock_name": "莱茵体育",
+      "current_price": 3.26,
+      "ma10": 3.322,
+      "ma20": 3.5370000000000004,
+      "ma60": 3.942333333333333,
+      "vol_ma5": 30443171.6,
+      "vol_ma20": 45800638.4,
+      "day_change": 2.8391167192429068,
+      "month_change": -10.439560439560447,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (3.26 > 3.25)",
+        "成交量未明显放大 (0.66倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600212",
+      "stock_name": "绿能慧充",
+      "current_price": 5.28,
+      "ma10": 5.506,
+      "ma20": 5.746,
+      "ma60": 6.722833333333333,
+      "vol_ma5": 12126260.2,
+      "vol_ma20": 12581755.9,
+      "day_change": 1.538461538461533,
+      "month_change": -14.006514657980452,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.96倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000564",
+      "stock_name": "供销大集",
+      "current_price": 1.38,
+      "ma10": 1.402,
+      "ma20": 1.4700000000000002,
+      "ma60": 1.6769999999999998,
+      "vol_ma5": 253239166.0,
+      "vol_ma20": 292868869.7,
+      "day_change": 3.7593984962405846,
+      "month_change": -16.867469879518072,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (1.38 > 1.35)",
+        "成交量未明显放大 (0.86倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600689",
+      "stock_name": "上海三毛",
+      "current_price": 9.92,
+      "ma10": 10.342,
+      "ma20": 10.741,
+      "ma60": 12.258333333333333,
+      "vol_ma5": 2896270.6,
+      "vol_ma20": 3057776.1,
+      "day_change": 2.268041237113416,
+      "month_change": -13.286713286713281,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (9.92 > 9.88)",
+        "成交量未明显放大 (0.95倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000632",
+      "stock_name": "三木集团",
+      "current_price": 3.2,
+      "ma10": 3.1710000000000003,
+      "ma20": 3.5055,
+      "ma60": 3.989833333333333,
+      "vol_ma5": 14188801.0,
+      "vol_ma20": 17562612.4,
+      "day_change": 4.918032786885251,
+      "month_change": -22.330097087378643,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.81倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 80
+    },
+    {
+      "stock_code": "600682",
+      "stock_name": "南京新百",
+      "current_price": 5.33,
+      "ma10": 5.585999999999999,
+      "ma20": 5.727,
+      "ma60": 6.310166666666666,
+      "vol_ma5": 19709035.4,
+      "vol_ma20": 20643073.8,
+      "day_change": 3.495145631067964,
+      "month_change": -12.765957446808518,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (5.33 > 5.27)",
+        "成交量未明显放大 (0.95倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000025",
+      "stock_name": "特力A",
+      "current_price": 13.75,
+      "ma10": 14.742999999999999,
+      "ma20": 14.961500000000001,
+      "ma60": 15.476666666666667,
+      "vol_ma5": 8086107.4,
+      "vol_ma20": 9441827.2,
+      "day_change": 2.0029673590504338,
+      "month_change": -9.060846560846558,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.86倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600089",
+      "stock_name": "特变电工",
+      "current_price": 22.26,
+      "ma10": 23.201,
+      "ma20": 23.670499999999997,
+      "ma60": 25.877666666666663,
+      "vol_ma5": 122481057.8,
+      "vol_ma20": 140750647.3,
+      "day_change": -1.0666666666666602,
+      "month_change": -15.13534121235226,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (22.26 > 21.78)",
+        "成交量未明显放大 (0.87倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600817",
+      "stock_name": "宇通重工",
+      "current_price": 8.8,
+      "ma10": 9.004,
+      "ma20": 9.345500000000001,
+      "ma60": 10.753666666666666,
+      "vol_ma5": 2119587.2,
+      "vol_ma20": 2596537.0,
+      "day_change": 0.0,
+      "month_change": -11.735205616850553,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        true,
+        false,
+        false
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格在MA20附近 (8.80 > 8.60)",
+        "成交量未明显放大 (0.82倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000638",
+      "stock_name": "万方发展",
+      "current_price": 0.89,
+      "ma10": 0.998,
+      "ma20": 1.2075,
+      "ma60": 1.2075,
+      "vol_ma5": 791320.0,
+      "vol_ma20": 8716555.6,
+      "day_change": 0.0,
+      "month_change": -33.58208955223881,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.09倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 31
+    }
+  ],
+  "top_5": [
+    {
+      "stock_code": "000551",
+      "stock_name": "创元科技",
+      "current_price": 21.0,
+      "ma10": 17.694,
+      "ma20": 16.402499999999996,
+      "ma60": 15.824666666666667,
+      "vol_ma5": 62410093.0,
+      "vol_ma20": 29543747.2,
+      "day_change": 1.7935046049442516,
+      "month_change": 37.07571801566581,
+      "score": 116.54084340902389,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (21.00 > 15.09)",
+        "成交量放大 2.11倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "000783",
+      "stock_name": "长江证券",
+      "current_price": 10.54,
+      "ma10": 9.281,
+      "ma20": 8.4505,
+      "ma60": 8.016,
+      "vol_ma5": 405147159.4,
+      "vol_ma20": 216125953.6,
+      "day_change": 8.102564102564092,
+      "month_change": 33.926302414231245,
+      "score": 116.29740518962076,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (10.54 > 7.77)",
+        "成交量放大 1.87倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601066",
+      "stock_name": "中信建投",
+      "current_price": 30.01,
+      "ma10": 28.310000000000002,
+      "ma20": 26.714499999999997,
+      "ma60": 23.845333333333333,
+      "vol_ma5": 122069915.8,
+      "vol_ma20": 72667587.4,
+      "day_change": 3.2335741314069466,
+      "month_change": 17.455968688845402,
+      "score": 115.17054350257213,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (30.01 > 24.58)",
+        "成交量放大 1.68倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "600909",
+      "stock_name": "华安证券",
+      "current_price": 12.22,
+      "ma10": 10.849,
+      "ma20": 9.161999999999999,
+      "ma60": 7.117000000000002,
+      "vol_ma5": 430578592.8,
+      "vol_ma20": 311626660.2,
+      "day_change": 9.990999099909992,
+      "month_change": 64.24731182795699,
+      "score": 114.34031192918364,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (12.22 > 8.43)",
+        "成交量放大 1.38倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    },
+    {
+      "stock_code": "601995",
+      "stock_name": "中金公司",
+      "current_price": 37.51,
+      "ma10": 35.501,
+      "ma20": 34.214499999999994,
+      "ma60": 33.9655,
+      "vol_ma5": 49044635.8,
+      "vol_ma20": 31009298.7,
+      "day_change": 3.7621023513139784,
+      "month_change": 10.486008836524285,
+      "score": 107.08711781071969,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (37.51 > 31.48)",
+        "成交量放大 1.58倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 81
+    }
+  ],
+  "summary": {
+    "avg_score": 45.58542841077514,
+    "max_score": 116.54084340902389,
+    "min_score": 0.0,
+    "selected_names": [
+      "创元科技",
+      "长江证券",
+      "中信建投",
+      "华安证券",
+      "中金公司",
+      "招商证券",
+      "广发证券",
+      "中信证券",
+      "新大洲A",
+      "财达证券",
+      "国泰君安",
+      "京基智农",
+      "兴业证券",
+      "财通证券",
+      "综艺股份",
+      "华泰证券",
+      "方正证券",
+      "国元证券",
+      "东方财富",
+      "天风证券",
+      "东兴证券",
+      "东北证券",
+      "中国银河",
+      "浙商证券",
+      "西南证券",
+      "华西证券",
+      "国投资本",
+      "申万宏源",
+      "国信证券",
+      "南京证券",
+      "华林证券",
+      "中泰证券",
+      "太平洋",
+      "湘财股份",
+      "中银证券",
+      "东方证券",
+      "中原证券",
+      "东吴证券",
+      "国海证券",
+      "光大证券",
+      "信达证券",
+      "西部证券",
+      "首创证券",
+      "山西证券",
+      "华创云信",
+      "哈投股份",
+      "第一创业",
+      "华鑫股份",
+      "长城证券",
+      "红塔证券",
+      "东阳光",
+      "国金证券",
+      "锦龙股份",
+      "国联证券",
+      "国盛金控",
+      "交运股份",
+      "牧原股份",
+      "温氏股份",
+      "粤桂股份",
+      "亚泰集团",
+      "新希望",
+      "正邦科技",
+      "中迪投资"
+    ]
+  }
+}
