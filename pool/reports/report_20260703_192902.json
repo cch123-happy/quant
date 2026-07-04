@@ -1,0 +1,3769 @@
+{
+  "analysis_date": "2026-07-03 19:29:02",
+  "total_stocks": 78,
+  "selected_count": 59,
+  "selected_stocks": [
+    {
+      "stock_code": "000725",
+      "stock_name": "京东方A",
+      "current_price": 8.38,
+      "ma10": 7.895999999999999,
+      "ma20": 7.0455,
+      "ma60": 5.347833333333332,
+      "vol_ma5": 4754347573.6,
+      "vol_ma20": 3858592045.3,
+      "day_change": -7.912087912087895,
+      "month_change": 30.326594090202196,
+      "score": 111.3397949325272,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.38 > 6.48)",
+        "成交量放大 1.23倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300852",
+      "stock_name": "四会富仕",
+      "current_price": 68.26,
+      "ma10": 64.916,
+      "ma20": 59.84349999999999,
+      "ma60": 52.042833333333334,
+      "vol_ma5": 18120576.0,
+      "vol_ma20": 12651091.25,
+      "day_change": -5.96500895440143,
+      "month_change": 34.5024630541872,
+      "score": 106.23223818841531,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (68.26 > 55.06)",
+        "成交量放大 1.43倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600601",
+      "stock_name": "方正科技",
+      "current_price": 15.12,
+      "ma10": 13.835999999999999,
+      "ma20": 13.4005,
+      "ma60": 12.458,
+      "vol_ma5": 366190525.6,
+      "vol_ma20": 281287857.8,
+      "day_change": 1.3404825737265424,
+      "month_change": 21.739130434782595,
+      "score": 104.27355915877348,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (15.12 > 12.33)",
+        "成交量放大 1.30倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600176",
+      "stock_name": "中国巨石",
+      "current_price": 70.9,
+      "ma10": 67.99,
+      "ma20": 55.855000000000004,
+      "ma60": 42.10350000000001,
+      "vol_ma5": 214990223.8,
+      "vol_ma20": 198790346.4,
+      "day_change": 4.541433205544099,
+      "month_change": 91.82900432900433,
+      "score": 103.678910304369,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (70.90 > 51.39)",
+        "成交量放大 1.08倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "001389",
+      "stock_name": "广合科技",
+      "current_price": 203.0,
+      "ma10": 205.47200000000004,
+      "ma20": 196.23900000000003,
+      "ma60": 177.00833333333333,
+      "vol_ma5": 14014849.6,
+      "vol_ma20": 10707210.45,
+      "day_change": 3.1504065040650397,
+      "month_change": 16.653258246178602,
+      "score": 97.93677322159974,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (203.00 > 180.54)",
+        "成交量放大 1.31倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603065",
+      "stock_name": "宿迁联盛",
+      "current_price": 18.8,
+      "ma10": 19.25,
+      "ma20": 15.879,
+      "ma60": 10.718333333333334,
+      "vol_ma5": 41749203.6,
+      "vol_ma20": 42805059.45,
+      "day_change": -2.185223725286156,
+      "month_change": 96.85863874345549,
+      "score": 95.0800808583424,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (18.80 > 14.61)",
+        "成交量未明显放大 (0.98倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301511",
+      "stock_name": "德福科技",
+      "current_price": 153.1,
+      "ma10": 149.308,
+      "ma20": 146.7895,
+      "ma60": 104.32950000000002,
+      "vol_ma5": 39772658.8,
+      "vol_ma20": 39392747.95,
+      "day_change": 5.143877480942227,
+      "month_change": 28.117154811715483,
+      "score": 94.34932114119208,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (153.10 > 135.05)",
+        "成交量未明显放大 (1.01倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300285",
+      "stock_name": "国瓷材料",
+      "current_price": 90.73,
+      "ma10": 97.36800000000001,
+      "ma20": 82.0745,
+      "ma60": 54.803666666666665,
+      "vol_ma5": 113675910.4,
+      "vol_ma20": 137254456.2,
+      "day_change": -2.2200668175449967,
+      "month_change": 39.19914084074869,
+      "score": 93.11092323506335,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (90.73 > 75.51)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002859",
+      "stock_name": "洁美科技",
+      "current_price": 93.27,
+      "ma10": 101.148,
+      "ma20": 93.23700000000001,
+      "ma60": 67.39533333333334,
+      "vol_ma5": 31737229.4,
+      "vol_ma20": 31368460.25,
+      "day_change": -5.702153472854111,
+      "month_change": 7.751848428835473,
+      "score": 92.67847427616155,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (93.27 > 85.78)",
+        "成交量未明显放大 (1.01倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600110",
+      "stock_name": "诺德股份",
+      "current_price": 15.75,
+      "ma10": 15.425,
+      "ma20": 14.506,
+      "ma60": 11.866333333333333,
+      "vol_ma5": 199541409.2,
+      "vol_ma20": 198278368.25,
+      "day_change": 8.396421197522375,
+      "month_change": 39.50398582816652,
+      "score": 91.54568948565971,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (15.75 > 13.35)",
+        "成交量未明显放大 (1.01倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "current_price": 454.48,
+      "ma10": 442.14,
+      "ma20": 420.02349999999996,
+      "ma60": 357.01466666666664,
+      "vol_ma5": 14292270.8,
+      "vol_ma20": 14070934.4,
+      "day_change": 7.4166863625620305,
+      "month_change": 21.84450402144773,
+      "score": 90.46001844928874,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (454.48 > 386.42)",
+        "成交量未明显放大 (1.02倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300054",
+      "stock_name": "鼎龙股份",
+      "current_price": 89.88,
+      "ma10": 96.34400000000001,
+      "ma20": 87.3045,
+      "ma60": 71.44166666666666,
+      "vol_ma5": 63528000.8,
+      "vol_ma20": 56120937.15,
+      "day_change": -3.737817286066203,
+      "month_change": 28.86021505376344,
+      "score": 90.16178700571561,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (89.88 > 80.32)",
+        "成交量放大 1.13倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301377",
+      "stock_name": "鼎泰高科",
+      "current_price": 518.04,
+      "ma10": 581.914,
+      "ma20": 535.5255,
+      "ma60": 351.5581666666667,
+      "vol_ma5": 6641854.4,
+      "vol_ma20": 5667500.45,
+      "day_change": -2.440677966101701,
+      "month_change": 30.84791998181402,
+      "score": 89.4710832583892,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (518.04 > 492.68)",
+        "成交量放大 1.17倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002636",
+      "stock_name": "金安国纪",
+      "current_price": 106.95,
+      "ma10": 112.85999999999999,
+      "ma20": 98.60849999999999,
+      "ma60": 62.41116666666666,
+      "vol_ma5": 40572313.4,
+      "vol_ma20": 46131335.75,
+      "day_change": -4.149489155762676,
+      "month_change": 83.88927097661625,
+      "score": 89.27271294933867,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (106.95 > 90.72)",
+        "成交量未明显放大 (0.88倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600172",
+      "stock_name": "黄河旋风",
+      "current_price": 16.86,
+      "ma10": 16.862000000000002,
+      "ma20": 14.793000000000001,
+      "ma60": 11.804499999999999,
+      "vol_ma5": 221927963.6,
+      "vol_ma20": 240142914.4,
+      "day_change": -6.489184692179705,
+      "month_change": 25.53983618763962,
+      "score": 88.56537761023338,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (16.86 > 13.61)",
+        "成交量未明显放大 (0.92倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600497",
+      "stock_name": "驰宏锌锗",
+      "current_price": 10.95,
+      "ma10": 11.897,
+      "ma20": 10.555,
+      "ma60": 9.761333333333335,
+      "vol_ma5": 340817114.2,
+      "vol_ma20": 297977378.1,
+      "day_change": -5.846947549441117,
+      "month_change": 22.483221476510074,
+      "score": 87.43545963666165,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (10.95 > 9.71)",
+        "成交量放大 1.14倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688048",
+      "stock_name": "长光华芯",
+      "current_price": 410.6,
+      "ma10": 429.65,
+      "ma20": 394.8005,
+      "ma60": 369.1971666666666,
+      "vol_ma5": 14423902.2,
+      "vol_ma20": 14019520.65,
+      "day_change": -4.289044289044286,
+      "month_change": 11.391443531103329,
+      "score": 87.24285758783813,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (410.60 > 363.22)",
+        "成交量未明显放大 (1.03倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300179",
+      "stock_name": "四方达",
+      "current_price": 54.65,
+      "ma10": 57.35699999999999,
+      "ma20": 50.73049999999999,
+      "ma60": 37.673,
+      "vol_ma5": 66078197.6,
+      "vol_ma20": 73049261.95,
+      "day_change": -5.039096437880097,
+      "month_change": 15.052631578947363,
+      "score": 84.01282085313089,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (54.65 > 46.67)",
+        "成交量未明显放大 (0.90倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688630",
+      "stock_name": "芯碁微装",
+      "current_price": 480.32,
+      "ma10": 509.1289999999999,
+      "ma20": 465.7165,
+      "ma60": 338.5333333333334,
+      "vol_ma5": 5975558.4,
+      "vol_ma20": 6259686.65,
+      "day_change": 2.632478632478641,
+      "month_change": 26.73350923482849,
+      "score": 83.37652619141393,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (480.32 > 428.46)",
+        "成交量未明显放大 (0.95倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300903",
+      "stock_name": "科翔股份",
+      "current_price": 95.9,
+      "ma10": 103.60400000000001,
+      "ma20": 90.75450000000001,
+      "ma60": 68.11366666666666,
+      "vol_ma5": 21261164.8,
+      "vol_ma20": 25205128.05,
+      "day_change": 5.153508771929838,
+      "month_change": 33.00970873786409,
+      "score": 83.15881296460329,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (95.90 > 83.49)",
+        "成交量未明显放大 (0.84倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301165",
+      "stock_name": "锐捷网络",
+      "current_price": 94.89,
+      "ma10": 74.28,
+      "ma20": 67.77950000000001,
+      "ma60": 82.09066666666666,
+      "vol_ma5": 31015287.4,
+      "vol_ma20": 16510521.1,
+      "day_change": 11.307917888563047,
+      "month_change": 48.82371392722711,
+      "score": 83.1183406964657,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (94.89 > 62.36)",
+        "成交量放大 1.88倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300570",
+      "stock_name": "太辰光",
+      "current_price": 237.12,
+      "ma10": 249.295,
+      "ma20": 227.47899999999998,
+      "ma60": 176.12816666666671,
+      "vol_ma5": 19601846.2,
+      "vol_ma20": 27956677.45,
+      "day_change": 0.6067291781577611,
+      "month_change": 40.824325929445315,
+      "score": 81.92584661359294,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (237.12 > 209.28)",
+        "成交量未明显放大 (0.70倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301200",
+      "stock_name": "大族数控",
+      "current_price": 343.0,
+      "ma10": 357.34900000000005,
+      "ma20": 326.171,
+      "ma60": 255.42633333333336,
+      "vol_ma5": 4316997.2,
+      "vol_ma20": 4843251.1,
+      "day_change": -1.6064257028112539,
+      "month_change": 23.737373737373744,
+      "score": 81.85705859093098,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (343.00 > 300.08)",
+        "成交量未明显放大 (0.89倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688559",
+      "stock_name": "海目星",
+      "current_price": 70.11,
+      "ma10": 77.374,
+      "ma20": 72.6945,
+      "ma60": 65.25616666666667,
+      "vol_ma5": 18590264.4,
+      "vol_ma20": 18167413.5,
+      "day_change": -5.448415374241411,
+      "month_change": 2.41016652059598,
+      "score": 81.48762441352925,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (70.11 > 66.88)",
+        "成交量未明显放大 (1.02倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603002",
+      "stock_name": "宏昌电子",
+      "current_price": 22.38,
+      "ma10": 24.14,
+      "ma20": 21.522,
+      "ma60": 16.99433333333333,
+      "vol_ma5": 94704957.8,
+      "vol_ma20": 104819823.8,
+      "day_change": -1.7990346643264599,
+      "month_change": 33.61194029850745,
+      "score": 81.33819116175981,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (22.38 > 19.80)",
+        "成交量未明显放大 (0.90倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000988",
+      "stock_name": "华工科技",
+      "current_price": 153.95,
+      "ma10": 168.608,
+      "ma20": 163.5605,
+      "ma60": 144.44500000000002,
+      "vol_ma5": 90480780.2,
+      "vol_ma20": 75108348.6,
+      "day_change": -1.440460947503197,
+      "month_change": -2.0674300254452938,
+      "score": 81.31607186126206,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (153.95 > 150.48)",
+        "成交量放大 1.20倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603186",
+      "stock_name": "华正新材",
+      "current_price": 199.99,
+      "ma10": 230.30299999999997,
+      "ma20": 203.72600000000003,
+      "ma60": 130.90383333333335,
+      "vol_ma5": 14355605.6,
+      "vol_ma20": 15739784.95,
+      "day_change": 2.0357142857142962,
+      "month_change": 61.725699498625275,
+      "score": 80.55525493905832,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (199.99 > 187.43)",
+        "成交量未明显放大 (0.91倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301071",
+      "stock_name": "力量钻石",
+      "current_price": 84.11,
+      "ma10": 93.537,
+      "ma20": 82.7085,
+      "ma60": 65.8975,
+      "vol_ma5": 25244526.6,
+      "vol_ma20": 27802160.6,
+      "day_change": -5.906700973263234,
+      "month_change": 13.93931183960988,
+      "score": 80.5275238059107,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (84.11 > 76.09)",
+        "成交量未明显放大 (0.91倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301217",
+      "stock_name": "铜冠铜箔",
+      "current_price": 154.63,
+      "ma10": 171.171,
+      "ma20": 159.07150000000004,
+      "ma60": 103.19216666666667,
+      "vol_ma5": 40498625.6,
+      "vol_ma20": 43320601.35,
+      "day_change": -2.083333333333326,
+      "month_change": 38.980765773863,
+      "score": 79.96932906729032,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (154.63 > 146.35)",
+        "成交量未明显放大 (0.93倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002428",
+      "stock_name": "云南锗业",
+      "current_price": 105.07,
+      "ma10": 116.705,
+      "ma20": 103.9485,
+      "ma60": 86.44233333333334,
+      "vol_ma5": 74700503.6,
+      "vol_ma20": 91439303.75,
+      "day_change": -1.7118802619270457,
+      "month_change": 22.888888888888893,
+      "score": 79.30984818395308,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (105.07 > 95.63)",
+        "成交量未明显放大 (0.82倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688498",
+      "stock_name": "源杰科技",
+      "current_price": 1659.23,
+      "ma10": 1785.1770000000001,
+      "ma20": 1634.925,
+      "ma60": 1428.9234999999999,
+      "vol_ma5": 4665595.0,
+      "vol_ma20": 5442340.25,
+      "day_change": 1.2342892007321637,
+      "month_change": 25.630716578835777,
+      "score": 78.22349656927051,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (1659.23 > 1504.13)",
+        "成交量未明显放大 (0.86倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603256",
+      "stock_name": "宏和科技",
+      "current_price": 238.0,
+      "ma10": 261.248,
+      "ma20": 240.9055,
+      "ma60": 169.5985,
+      "vol_ma5": 15454848.6,
+      "vol_ma20": 16846437.3,
+      "day_change": 2.0451914419242767,
+      "month_change": 21.391410792614508,
+      "score": 78.06628596361406,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (238.00 > 221.63)",
+        "成交量未明显放大 (0.92倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600183",
+      "stock_name": "生益科技",
+      "current_price": 160.78,
+      "ma10": 171.746,
+      "ma20": 164.7045,
+      "ma60": 115.815,
+      "vol_ma5": 71778727.4,
+      "vol_ma20": 80472151.7,
+      "day_change": 5.811122079631459,
+      "month_change": 17.050087361677324,
+      "score": 77.76496999525105,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (160.78 > 151.53)",
+        "成交量未明显放大 (0.89倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "current_price": 325.4,
+      "ma10": 340.931,
+      "ma20": 314.787,
+      "ma60": 298.4028333333334,
+      "vol_ma5": 39561248.6,
+      "vol_ma20": 41748444.6,
+      "day_change": 0.9649694374631368,
+      "month_change": 18.733124133401446,
+      "score": 76.80944439200476,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (325.40 > 289.60)",
+        "成交量未明显放大 (0.95倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603519",
+      "stock_name": "立霸股份",
+      "current_price": 15.0,
+      "ma10": 15.353,
+      "ma20": 14.3445,
+      "ma60": 13.907166666666665,
+      "vol_ma5": 8026997.6,
+      "vol_ma20": 8365812.05,
+      "day_change": -3.7227214377406947,
+      "month_change": 19.521912350597592,
+      "score": 76.57161175892526,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (15.00 > 13.20)",
+        "成交量未明显放大 (0.96倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000657",
+      "stock_name": "中钨高新",
+      "current_price": 89.63,
+      "ma10": 98.999,
+      "ma20": 89.80350000000001,
+      "ma60": 68.85016666666665,
+      "vol_ma5": 91686960.2,
+      "vol_ma20": 104662782.55,
+      "day_change": -7.626507265794091,
+      "month_change": 27.86019971469329,
+      "score": 76.03624779412299,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (89.63 > 82.62)",
+        "成交量未明显放大 (0.88倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "current_price": 135.35,
+      "ma10": 143.411,
+      "ma20": 139.849,
+      "ma60": 118.11866666666668,
+      "vol_ma5": 85474456.2,
+      "vol_ma20": 92189342.7,
+      "day_change": 3.7085280821393063,
+      "month_change": 1.5988590301756478,
+      "score": 72.91763085710414,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (135.35 > 128.66)",
+        "成交量未明显放大 (0.93倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603083",
+      "stock_name": "剑桥科技",
+      "current_price": 209.37,
+      "ma10": 241.60399999999996,
+      "ma20": 215.55199999999996,
+      "ma60": 185.2468333333334,
+      "vol_ma5": 22964863.6,
+      "vol_ma20": 27222793.1,
+      "day_change": -4.147781898090919,
+      "month_change": 9.03551713363191,
+      "score": 72.60443498359396,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (209.37 > 198.31)",
+        "成交量未明显放大 (0.84倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "601869",
+      "stock_name": "长飞光纤",
+      "current_price": 475.08,
+      "ma10": 530.8249999999999,
+      "ma20": 492.63500000000005,
+      "ma60": 421.07050000000004,
+      "vol_ma5": 12834814.8,
+      "vol_ma20": 15410702.4,
+      "day_change": 2.306350539440527,
+      "month_change": 7.564471211538026,
+      "score": 72.5653423832826,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (475.08 > 453.22)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "003031",
+      "stock_name": "中瓷电子",
+      "current_price": 156.98,
+      "ma10": 179.38400000000001,
+      "ma20": 164.60850000000002,
+      "ma60": 144.00116666666665,
+      "vol_ma5": 11226909.6,
+      "vol_ma20": 13546286.75,
+      "day_change": -1.5181932245922347,
+      "month_change": 10.091871800266494,
+      "score": 71.80260113633338,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (156.98 > 151.44)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "605580",
+      "stock_name": "恒盛能源",
+      "current_price": 26.37,
+      "ma10": 28.324,
+      "ma20": 26.788999999999998,
+      "ma60": 24.34066666666666,
+      "vol_ma5": 16607206.0,
+      "vol_ma20": 18687154.7,
+      "day_change": -9.999999999999998,
+      "month_change": 0.8027522935779796,
+      "score": 71.66744268850485,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (26.37 > 24.65)",
+        "成交量未明显放大 (0.89倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688183",
+      "stock_name": "生益电子",
+      "current_price": 122.89,
+      "ma10": 128.671,
+      "ma20": 127.47349999999999,
+      "ma60": 116.44666666666667,
+      "vol_ma5": 22354588.6,
+      "vol_ma20": 29908515.55,
+      "day_change": 6.582827406764968,
+      "month_change": 4.276622825625798,
+      "score": 71.10665826988034,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (122.89 > 117.28)",
+        "成交量未明显放大 (0.75倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000960",
+      "stock_name": "锡业股份",
+      "current_price": 40.48,
+      "ma10": 43.349,
+      "ma20": 40.7775,
+      "ma60": 38.65266666666667,
+      "vol_ma5": 107577368.2,
+      "vol_ma20": 116078886.7,
+      "day_change": -1.7714147051686613,
+      "month_change": 4.06169665809768,
+      "score": 70.94551475534246,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (40.48 > 37.52)",
+        "成交量未明显放大 (0.93倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000938",
+      "stock_name": "紫光股份",
+      "current_price": 30.28,
+      "ma10": 28.081,
+      "ma20": 27.265500000000003,
+      "ma60": 28.957666666666665,
+      "vol_ma5": 225180704.4,
+      "vol_ma20": 162445097.3,
+      "day_change": 4.305890458146755,
+      "month_change": 8.647290993900247,
+      "score": 70.91328721236748,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (30.28 > 25.08)",
+        "成交量放大 1.39倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600184",
+      "stock_name": "光电股份",
+      "current_price": 25.83,
+      "ma10": 28.993000000000002,
+      "ma20": 27.6795,
+      "ma60": 25.615666666666666,
+      "vol_ma5": 51302494.6,
+      "vol_ma20": 49022600.75,
+      "day_change": -10.000000000000009,
+      "month_change": -2.894736842105272,
+      "score": 70.16734550470414,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (25.83 > 25.47)",
+        "成交量未明显放大 (1.05倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "current_price": 1353.0,
+      "ma10": 1457.387,
+      "ma20": 1377.6695,
+      "ma60": 1348.992,
+      "vol_ma5": 13633649.0,
+      "vol_ma20": 13706902.3,
+      "day_change": -1.384839650145775,
+      "month_change": 4.141009852216748,
+      "score": 70.0594221463137,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (1353.00 > 1267.46)",
+        "成交量未明显放大 (0.99倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301176",
+      "stock_name": "逸豪新材",
+      "current_price": 59.87,
+      "ma10": 69.118,
+      "ma20": 63.79699999999999,
+      "ma60": 45.97849999999999,
+      "vol_ma5": 7735622.0,
+      "vol_ma20": 11715403.35,
+      "day_change": -1.529605263157896,
+      "month_change": 44.12614347616754,
+      "score": 66.04260687060257,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (59.87 > 58.69)",
+        "成交量未明显放大 (0.66倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "601208",
+      "stock_name": "东材科技",
+      "current_price": 63.7,
+      "ma10": 71.02600000000001,
+      "ma20": 67.54799999999999,
+      "ma60": 51.2195,
+      "vol_ma5": 66711447.2,
+      "vol_ma20": 87680710.85,
+      "day_change": 0.0,
+      "month_change": 12.226920366455252,
+      "score": 64.87333925555697,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (63.70 > 62.14)",
+        "成交量未明显放大 (0.76倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002281",
+      "stock_name": "光迅科技",
+      "current_price": 217.33,
+      "ma10": 248.19699999999997,
+      "ma20": 235.17049999999995,
+      "ma60": 189.34383333333335,
+      "vol_ma5": 47084439.4,
+      "vol_ma20": 51270023.2,
+      "day_change": -0.3941518859709392,
+      "month_change": -4.503910712716408,
+      "score": 62.95612127144357,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (217.33 > 216.36)",
+        "成交量未明显放大 (0.92倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002913",
+      "stock_name": "奥士康",
+      "current_price": 57.15,
+      "ma10": 63.51899999999999,
+      "ma20": 60.806,
+      "ma60": 55.6355,
+      "vol_ma5": 6225752.0,
+      "vol_ma20": 8352307.8,
+      "day_change": -1.4994829369183171,
+      "month_change": 9.90384615384614,
+      "score": 60.54443655579621,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (57.15 > 55.94)",
+        "成交量未明显放大 (0.75倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688313",
+      "stock_name": "仕佳光子",
+      "current_price": 158.57,
+      "ma10": 181.573,
+      "ma20": 170.96450000000002,
+      "ma60": 156.44349999999997,
+      "vol_ma5": 23097546.6,
+      "vol_ma20": 28226791.7,
+      "day_change": -1.4542290721521356,
+      "month_change": 1.1352764844696717,
+      "score": 60.27185533435394,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (158.57 > 157.29)",
+        "成交量未明显放大 (0.82倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002930",
+      "stock_name": "宏川智慧",
+      "current_price": 9.82,
+      "ma10": 9.377,
+      "ma20": 9.488,
+      "ma60": 12.14166666666667,
+      "vol_ma5": 34839749.0,
+      "vol_ma20": 18207984.55,
+      "day_change": -1.306532663316573,
+      "month_change": -0.908173562058523,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (9.82 > 8.73)",
+        "成交量放大 1.91倍",
+        "趋势偏弱"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688700",
+      "stock_name": "东威科技",
+      "current_price": 77.6,
+      "ma10": 88.155,
+      "ma20": 89.417,
+      "ma60": 76.04649999999998,
+      "vol_ma5": 18217679.0,
+      "vol_ma20": 17104094.5,
+      "day_change": -1.2471366759989833,
+      "month_change": -11.617312072892938,
+      "score": 40.40856581170731,
+      "selected": true,
+      "conditions": [
+        false,
+        true,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量放大 1.07倍",
+        "趋势向上: MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603496",
+      "stock_name": "恒为科技",
+      "current_price": 22.73,
+      "ma10": 23.93,
+      "ma20": 23.4325,
+      "ma60": 27.05666666666667,
+      "vol_ma5": 11101598.6,
+      "vol_ma20": 14119463.35,
+      "day_change": 0.6643046944198483,
+      "month_change": 0.044014084507049134,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (22.73 > 21.56)",
+        "成交量未明显放大 (0.79倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "current_price": 526.0,
+      "ma10": 563.8280000000001,
+      "ma20": 596.5409999999999,
+      "ma60": 594.5585,
+      "vol_ma5": 56187365.0,
+      "vol_ma20": 50033271.2,
+      "day_change": 3.3398821218074692,
+      "month_change": -29.679144385026735,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        false,
+        true,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量放大 1.12倍",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002065",
+      "stock_name": "东华软件",
+      "current_price": 7.08,
+      "ma10": 7.2,
+      "ma20": 7.198000000000002,
+      "ma60": 7.865666666666666,
+      "vol_ma5": 37091828.8,
+      "vol_ma20": 40896245.1,
+      "day_change": -0.14104372355430161,
+      "month_change": -2.7472527472527486,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (7.08 > 6.62)",
+        "成交量未明显放大 (0.91倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000063",
+      "stock_name": "中兴通讯",
+      "current_price": 36.38,
+      "ma10": 36.924,
+      "ma20": 37.3825,
+      "ma60": 36.783833333333334,
+      "vol_ma5": 159201656.2,
+      "vol_ma20": 228062043.5,
+      "day_change": 3.001132502831272,
+      "month_change": -7.027855865065169,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (36.38 > 34.39)",
+        "成交量未明显放大 (0.70倍)",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600362",
+      "stock_name": "江西铜业",
+      "current_price": 43.28,
+      "ma10": 45.515,
+      "ma20": 45.052499999999995,
+      "ma60": 45.62616666666668,
+      "vol_ma5": 63560912.0,
+      "vol_ma20": 76652603.15,
+      "day_change": 3.244274809160297,
+      "month_change": -2.4346257889990897,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (43.28 > 41.45)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603228",
+      "stock_name": "景旺电子",
+      "current_price": 71.97,
+      "ma10": 72.006,
+      "ma20": 73.81250000000001,
+      "ma60": 72.30266666666667,
+      "vol_ma5": 35239535.2,
+      "vol_ma20": 40961773.95,
+      "day_change": 8.765301496146293,
+      "month_change": 0.8972381887004,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (71.97 > 67.91)",
+        "成交量未明显放大 (0.86倍)",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 82
+    }
+  ],
+  "all_stocks": [
+    {
+      "stock_code": "000725",
+      "stock_name": "京东方A",
+      "current_price": 8.38,
+      "ma10": 7.895999999999999,
+      "ma20": 7.0455,
+      "ma60": 5.347833333333332,
+      "vol_ma5": 4754347573.6,
+      "vol_ma20": 3858592045.3,
+      "day_change": -7.912087912087895,
+      "month_change": 30.326594090202196,
+      "score": 111.3397949325272,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.38 > 6.48)",
+        "成交量放大 1.23倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300852",
+      "stock_name": "四会富仕",
+      "current_price": 68.26,
+      "ma10": 64.916,
+      "ma20": 59.84349999999999,
+      "ma60": 52.042833333333334,
+      "vol_ma5": 18120576.0,
+      "vol_ma20": 12651091.25,
+      "day_change": -5.96500895440143,
+      "month_change": 34.5024630541872,
+      "score": 106.23223818841531,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (68.26 > 55.06)",
+        "成交量放大 1.43倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600601",
+      "stock_name": "方正科技",
+      "current_price": 15.12,
+      "ma10": 13.835999999999999,
+      "ma20": 13.4005,
+      "ma60": 12.458,
+      "vol_ma5": 366190525.6,
+      "vol_ma20": 281287857.8,
+      "day_change": 1.3404825737265424,
+      "month_change": 21.739130434782595,
+      "score": 104.27355915877348,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (15.12 > 12.33)",
+        "成交量放大 1.30倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600176",
+      "stock_name": "中国巨石",
+      "current_price": 70.9,
+      "ma10": 67.99,
+      "ma20": 55.855000000000004,
+      "ma60": 42.10350000000001,
+      "vol_ma5": 214990223.8,
+      "vol_ma20": 198790346.4,
+      "day_change": 4.541433205544099,
+      "month_change": 91.82900432900433,
+      "score": 103.678910304369,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (70.90 > 51.39)",
+        "成交量放大 1.08倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "001389",
+      "stock_name": "广合科技",
+      "current_price": 203.0,
+      "ma10": 205.47200000000004,
+      "ma20": 196.23900000000003,
+      "ma60": 177.00833333333333,
+      "vol_ma5": 14014849.6,
+      "vol_ma20": 10707210.45,
+      "day_change": 3.1504065040650397,
+      "month_change": 16.653258246178602,
+      "score": 97.93677322159974,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (203.00 > 180.54)",
+        "成交量放大 1.31倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603065",
+      "stock_name": "宿迁联盛",
+      "current_price": 18.8,
+      "ma10": 19.25,
+      "ma20": 15.879,
+      "ma60": 10.718333333333334,
+      "vol_ma5": 41749203.6,
+      "vol_ma20": 42805059.45,
+      "day_change": -2.185223725286156,
+      "month_change": 96.85863874345549,
+      "score": 95.0800808583424,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (18.80 > 14.61)",
+        "成交量未明显放大 (0.98倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301511",
+      "stock_name": "德福科技",
+      "current_price": 153.1,
+      "ma10": 149.308,
+      "ma20": 146.7895,
+      "ma60": 104.32950000000002,
+      "vol_ma5": 39772658.8,
+      "vol_ma20": 39392747.95,
+      "day_change": 5.143877480942227,
+      "month_change": 28.117154811715483,
+      "score": 94.34932114119208,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (153.10 > 135.05)",
+        "成交量未明显放大 (1.01倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300285",
+      "stock_name": "国瓷材料",
+      "current_price": 90.73,
+      "ma10": 97.36800000000001,
+      "ma20": 82.0745,
+      "ma60": 54.803666666666665,
+      "vol_ma5": 113675910.4,
+      "vol_ma20": 137254456.2,
+      "day_change": -2.2200668175449967,
+      "month_change": 39.19914084074869,
+      "score": 93.11092323506335,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (90.73 > 75.51)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002859",
+      "stock_name": "洁美科技",
+      "current_price": 93.27,
+      "ma10": 101.148,
+      "ma20": 93.23700000000001,
+      "ma60": 67.39533333333334,
+      "vol_ma5": 31737229.4,
+      "vol_ma20": 31368460.25,
+      "day_change": -5.702153472854111,
+      "month_change": 7.751848428835473,
+      "score": 92.67847427616155,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (93.27 > 85.78)",
+        "成交量未明显放大 (1.01倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600110",
+      "stock_name": "诺德股份",
+      "current_price": 15.75,
+      "ma10": 15.425,
+      "ma20": 14.506,
+      "ma60": 11.866333333333333,
+      "vol_ma5": 199541409.2,
+      "vol_ma20": 198278368.25,
+      "day_change": 8.396421197522375,
+      "month_change": 39.50398582816652,
+      "score": 91.54568948565971,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (15.75 > 13.35)",
+        "成交量未明显放大 (1.01倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002916",
+      "stock_name": "深南电路",
+      "current_price": 454.48,
+      "ma10": 442.14,
+      "ma20": 420.02349999999996,
+      "ma60": 357.01466666666664,
+      "vol_ma5": 14292270.8,
+      "vol_ma20": 14070934.4,
+      "day_change": 7.4166863625620305,
+      "month_change": 21.84450402144773,
+      "score": 90.46001844928874,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (454.48 > 386.42)",
+        "成交量未明显放大 (1.02倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300054",
+      "stock_name": "鼎龙股份",
+      "current_price": 89.88,
+      "ma10": 96.34400000000001,
+      "ma20": 87.3045,
+      "ma60": 71.44166666666666,
+      "vol_ma5": 63528000.8,
+      "vol_ma20": 56120937.15,
+      "day_change": -3.737817286066203,
+      "month_change": 28.86021505376344,
+      "score": 90.16178700571561,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (89.88 > 80.32)",
+        "成交量放大 1.13倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301377",
+      "stock_name": "鼎泰高科",
+      "current_price": 518.04,
+      "ma10": 581.914,
+      "ma20": 535.5255,
+      "ma60": 351.5581666666667,
+      "vol_ma5": 6641854.4,
+      "vol_ma20": 5667500.45,
+      "day_change": -2.440677966101701,
+      "month_change": 30.84791998181402,
+      "score": 89.4710832583892,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (518.04 > 492.68)",
+        "成交量放大 1.17倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002636",
+      "stock_name": "金安国纪",
+      "current_price": 106.95,
+      "ma10": 112.85999999999999,
+      "ma20": 98.60849999999999,
+      "ma60": 62.41116666666666,
+      "vol_ma5": 40572313.4,
+      "vol_ma20": 46131335.75,
+      "day_change": -4.149489155762676,
+      "month_change": 83.88927097661625,
+      "score": 89.27271294933867,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (106.95 > 90.72)",
+        "成交量未明显放大 (0.88倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600172",
+      "stock_name": "黄河旋风",
+      "current_price": 16.86,
+      "ma10": 16.862000000000002,
+      "ma20": 14.793000000000001,
+      "ma60": 11.804499999999999,
+      "vol_ma5": 221927963.6,
+      "vol_ma20": 240142914.4,
+      "day_change": -6.489184692179705,
+      "month_change": 25.53983618763962,
+      "score": 88.56537761023338,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (16.86 > 13.61)",
+        "成交量未明显放大 (0.92倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600497",
+      "stock_name": "驰宏锌锗",
+      "current_price": 10.95,
+      "ma10": 11.897,
+      "ma20": 10.555,
+      "ma60": 9.761333333333335,
+      "vol_ma5": 340817114.2,
+      "vol_ma20": 297977378.1,
+      "day_change": -5.846947549441117,
+      "month_change": 22.483221476510074,
+      "score": 87.43545963666165,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (10.95 > 9.71)",
+        "成交量放大 1.14倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688048",
+      "stock_name": "长光华芯",
+      "current_price": 410.6,
+      "ma10": 429.65,
+      "ma20": 394.8005,
+      "ma60": 369.1971666666666,
+      "vol_ma5": 14423902.2,
+      "vol_ma20": 14019520.65,
+      "day_change": -4.289044289044286,
+      "month_change": 11.391443531103329,
+      "score": 87.24285758783813,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (410.60 > 363.22)",
+        "成交量未明显放大 (1.03倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300179",
+      "stock_name": "四方达",
+      "current_price": 54.65,
+      "ma10": 57.35699999999999,
+      "ma20": 50.73049999999999,
+      "ma60": 37.673,
+      "vol_ma5": 66078197.6,
+      "vol_ma20": 73049261.95,
+      "day_change": -5.039096437880097,
+      "month_change": 15.052631578947363,
+      "score": 84.01282085313089,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (54.65 > 46.67)",
+        "成交量未明显放大 (0.90倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688630",
+      "stock_name": "芯碁微装",
+      "current_price": 480.32,
+      "ma10": 509.1289999999999,
+      "ma20": 465.7165,
+      "ma60": 338.5333333333334,
+      "vol_ma5": 5975558.4,
+      "vol_ma20": 6259686.65,
+      "day_change": 2.632478632478641,
+      "month_change": 26.73350923482849,
+      "score": 83.37652619141393,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (480.32 > 428.46)",
+        "成交量未明显放大 (0.95倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300903",
+      "stock_name": "科翔股份",
+      "current_price": 95.9,
+      "ma10": 103.60400000000001,
+      "ma20": 90.75450000000001,
+      "ma60": 68.11366666666666,
+      "vol_ma5": 21261164.8,
+      "vol_ma20": 25205128.05,
+      "day_change": 5.153508771929838,
+      "month_change": 33.00970873786409,
+      "score": 83.15881296460329,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (95.90 > 83.49)",
+        "成交量未明显放大 (0.84倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301165",
+      "stock_name": "锐捷网络",
+      "current_price": 94.89,
+      "ma10": 74.28,
+      "ma20": 67.77950000000001,
+      "ma60": 82.09066666666666,
+      "vol_ma5": 31015287.4,
+      "vol_ma20": 16510521.1,
+      "day_change": 11.307917888563047,
+      "month_change": 48.82371392722711,
+      "score": 83.1183406964657,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (94.89 > 62.36)",
+        "成交量放大 1.88倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300570",
+      "stock_name": "太辰光",
+      "current_price": 237.12,
+      "ma10": 249.295,
+      "ma20": 227.47899999999998,
+      "ma60": 176.12816666666671,
+      "vol_ma5": 19601846.2,
+      "vol_ma20": 27956677.45,
+      "day_change": 0.6067291781577611,
+      "month_change": 40.824325929445315,
+      "score": 81.92584661359294,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (237.12 > 209.28)",
+        "成交量未明显放大 (0.70倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301200",
+      "stock_name": "大族数控",
+      "current_price": 343.0,
+      "ma10": 357.34900000000005,
+      "ma20": 326.171,
+      "ma60": 255.42633333333336,
+      "vol_ma5": 4316997.2,
+      "vol_ma20": 4843251.1,
+      "day_change": -1.6064257028112539,
+      "month_change": 23.737373737373744,
+      "score": 81.85705859093098,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (343.00 > 300.08)",
+        "成交量未明显放大 (0.89倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688559",
+      "stock_name": "海目星",
+      "current_price": 70.11,
+      "ma10": 77.374,
+      "ma20": 72.6945,
+      "ma60": 65.25616666666667,
+      "vol_ma5": 18590264.4,
+      "vol_ma20": 18167413.5,
+      "day_change": -5.448415374241411,
+      "month_change": 2.41016652059598,
+      "score": 81.48762441352925,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (70.11 > 66.88)",
+        "成交量未明显放大 (1.02倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603002",
+      "stock_name": "宏昌电子",
+      "current_price": 22.38,
+      "ma10": 24.14,
+      "ma20": 21.522,
+      "ma60": 16.99433333333333,
+      "vol_ma5": 94704957.8,
+      "vol_ma20": 104819823.8,
+      "day_change": -1.7990346643264599,
+      "month_change": 33.61194029850745,
+      "score": 81.33819116175981,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (22.38 > 19.80)",
+        "成交量未明显放大 (0.90倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000988",
+      "stock_name": "华工科技",
+      "current_price": 153.95,
+      "ma10": 168.608,
+      "ma20": 163.5605,
+      "ma60": 144.44500000000002,
+      "vol_ma5": 90480780.2,
+      "vol_ma20": 75108348.6,
+      "day_change": -1.440460947503197,
+      "month_change": -2.0674300254452938,
+      "score": 81.31607186126206,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (153.95 > 150.48)",
+        "成交量放大 1.20倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603186",
+      "stock_name": "华正新材",
+      "current_price": 199.99,
+      "ma10": 230.30299999999997,
+      "ma20": 203.72600000000003,
+      "ma60": 130.90383333333335,
+      "vol_ma5": 14355605.6,
+      "vol_ma20": 15739784.95,
+      "day_change": 2.0357142857142962,
+      "month_change": 61.725699498625275,
+      "score": 80.55525493905832,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (199.99 > 187.43)",
+        "成交量未明显放大 (0.91倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301071",
+      "stock_name": "力量钻石",
+      "current_price": 84.11,
+      "ma10": 93.537,
+      "ma20": 82.7085,
+      "ma60": 65.8975,
+      "vol_ma5": 25244526.6,
+      "vol_ma20": 27802160.6,
+      "day_change": -5.906700973263234,
+      "month_change": 13.93931183960988,
+      "score": 80.5275238059107,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (84.11 > 76.09)",
+        "成交量未明显放大 (0.91倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301217",
+      "stock_name": "铜冠铜箔",
+      "current_price": 154.63,
+      "ma10": 171.171,
+      "ma20": 159.07150000000004,
+      "ma60": 103.19216666666667,
+      "vol_ma5": 40498625.6,
+      "vol_ma20": 43320601.35,
+      "day_change": -2.083333333333326,
+      "month_change": 38.980765773863,
+      "score": 79.96932906729032,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (154.63 > 146.35)",
+        "成交量未明显放大 (0.93倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002428",
+      "stock_name": "云南锗业",
+      "current_price": 105.07,
+      "ma10": 116.705,
+      "ma20": 103.9485,
+      "ma60": 86.44233333333334,
+      "vol_ma5": 74700503.6,
+      "vol_ma20": 91439303.75,
+      "day_change": -1.7118802619270457,
+      "month_change": 22.888888888888893,
+      "score": 79.30984818395308,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (105.07 > 95.63)",
+        "成交量未明显放大 (0.82倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688498",
+      "stock_name": "源杰科技",
+      "current_price": 1659.23,
+      "ma10": 1785.1770000000001,
+      "ma20": 1634.925,
+      "ma60": 1428.9234999999999,
+      "vol_ma5": 4665595.0,
+      "vol_ma20": 5442340.25,
+      "day_change": 1.2342892007321637,
+      "month_change": 25.630716578835777,
+      "score": 78.22349656927051,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (1659.23 > 1504.13)",
+        "成交量未明显放大 (0.86倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603256",
+      "stock_name": "宏和科技",
+      "current_price": 238.0,
+      "ma10": 261.248,
+      "ma20": 240.9055,
+      "ma60": 169.5985,
+      "vol_ma5": 15454848.6,
+      "vol_ma20": 16846437.3,
+      "day_change": 2.0451914419242767,
+      "month_change": 21.391410792614508,
+      "score": 78.06628596361406,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (238.00 > 221.63)",
+        "成交量未明显放大 (0.92倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600183",
+      "stock_name": "生益科技",
+      "current_price": 160.78,
+      "ma10": 171.746,
+      "ma20": 164.7045,
+      "ma60": 115.815,
+      "vol_ma5": 71778727.4,
+      "vol_ma20": 80472151.7,
+      "day_change": 5.811122079631459,
+      "month_change": 17.050087361677324,
+      "score": 77.76496999525105,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (160.78 > 151.53)",
+        "成交量未明显放大 (0.89倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688041",
+      "stock_name": "海光信息",
+      "current_price": 325.4,
+      "ma10": 340.931,
+      "ma20": 314.787,
+      "ma60": 298.4028333333334,
+      "vol_ma5": 39561248.6,
+      "vol_ma20": 41748444.6,
+      "day_change": 0.9649694374631368,
+      "month_change": 18.733124133401446,
+      "score": 76.80944439200476,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (325.40 > 289.60)",
+        "成交量未明显放大 (0.95倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603519",
+      "stock_name": "立霸股份",
+      "current_price": 15.0,
+      "ma10": 15.353,
+      "ma20": 14.3445,
+      "ma60": 13.907166666666665,
+      "vol_ma5": 8026997.6,
+      "vol_ma20": 8365812.05,
+      "day_change": -3.7227214377406947,
+      "month_change": 19.521912350597592,
+      "score": 76.57161175892526,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (15.00 > 13.20)",
+        "成交量未明显放大 (0.96倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000657",
+      "stock_name": "中钨高新",
+      "current_price": 89.63,
+      "ma10": 98.999,
+      "ma20": 89.80350000000001,
+      "ma60": 68.85016666666665,
+      "vol_ma5": 91686960.2,
+      "vol_ma20": 104662782.55,
+      "day_change": -7.626507265794091,
+      "month_change": 27.86019971469329,
+      "score": 76.03624779412299,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (89.63 > 82.62)",
+        "成交量未明显放大 (0.88倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002463",
+      "stock_name": "沪电股份",
+      "current_price": 135.35,
+      "ma10": 143.411,
+      "ma20": 139.849,
+      "ma60": 118.11866666666668,
+      "vol_ma5": 85474456.2,
+      "vol_ma20": 92189342.7,
+      "day_change": 3.7085280821393063,
+      "month_change": 1.5988590301756478,
+      "score": 72.91763085710414,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (135.35 > 128.66)",
+        "成交量未明显放大 (0.93倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603083",
+      "stock_name": "剑桥科技",
+      "current_price": 209.37,
+      "ma10": 241.60399999999996,
+      "ma20": 215.55199999999996,
+      "ma60": 185.2468333333334,
+      "vol_ma5": 22964863.6,
+      "vol_ma20": 27222793.1,
+      "day_change": -4.147781898090919,
+      "month_change": 9.03551713363191,
+      "score": 72.60443498359396,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (209.37 > 198.31)",
+        "成交量未明显放大 (0.84倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "601869",
+      "stock_name": "长飞光纤",
+      "current_price": 475.08,
+      "ma10": 530.8249999999999,
+      "ma20": 492.63500000000005,
+      "ma60": 421.07050000000004,
+      "vol_ma5": 12834814.8,
+      "vol_ma20": 15410702.4,
+      "day_change": 2.306350539440527,
+      "month_change": 7.564471211538026,
+      "score": 72.5653423832826,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (475.08 > 453.22)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "003031",
+      "stock_name": "中瓷电子",
+      "current_price": 156.98,
+      "ma10": 179.38400000000001,
+      "ma20": 164.60850000000002,
+      "ma60": 144.00116666666665,
+      "vol_ma5": 11226909.6,
+      "vol_ma20": 13546286.75,
+      "day_change": -1.5181932245922347,
+      "month_change": 10.091871800266494,
+      "score": 71.80260113633338,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (156.98 > 151.44)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "605580",
+      "stock_name": "恒盛能源",
+      "current_price": 26.37,
+      "ma10": 28.324,
+      "ma20": 26.788999999999998,
+      "ma60": 24.34066666666666,
+      "vol_ma5": 16607206.0,
+      "vol_ma20": 18687154.7,
+      "day_change": -9.999999999999998,
+      "month_change": 0.8027522935779796,
+      "score": 71.66744268850485,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (26.37 > 24.65)",
+        "成交量未明显放大 (0.89倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688183",
+      "stock_name": "生益电子",
+      "current_price": 122.89,
+      "ma10": 128.671,
+      "ma20": 127.47349999999999,
+      "ma60": 116.44666666666667,
+      "vol_ma5": 22354588.6,
+      "vol_ma20": 29908515.55,
+      "day_change": 6.582827406764968,
+      "month_change": 4.276622825625798,
+      "score": 71.10665826988034,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (122.89 > 117.28)",
+        "成交量未明显放大 (0.75倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000960",
+      "stock_name": "锡业股份",
+      "current_price": 40.48,
+      "ma10": 43.349,
+      "ma20": 40.7775,
+      "ma60": 38.65266666666667,
+      "vol_ma5": 107577368.2,
+      "vol_ma20": 116078886.7,
+      "day_change": -1.7714147051686613,
+      "month_change": 4.06169665809768,
+      "score": 70.94551475534246,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (40.48 > 37.52)",
+        "成交量未明显放大 (0.93倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000938",
+      "stock_name": "紫光股份",
+      "current_price": 30.28,
+      "ma10": 28.081,
+      "ma20": 27.265500000000003,
+      "ma60": 28.957666666666665,
+      "vol_ma5": 225180704.4,
+      "vol_ma20": 162445097.3,
+      "day_change": 4.305890458146755,
+      "month_change": 8.647290993900247,
+      "score": 70.91328721236748,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (30.28 > 25.08)",
+        "成交量放大 1.39倍",
+        "趋势向上: MA10 > MA20, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600184",
+      "stock_name": "光电股份",
+      "current_price": 25.83,
+      "ma10": 28.993000000000002,
+      "ma20": 27.6795,
+      "ma60": 25.615666666666666,
+      "vol_ma5": 51302494.6,
+      "vol_ma20": 49022600.75,
+      "day_change": -10.000000000000009,
+      "month_change": -2.894736842105272,
+      "score": 70.16734550470414,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (25.83 > 25.47)",
+        "成交量未明显放大 (1.05倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688256",
+      "stock_name": "寒武纪",
+      "current_price": 1353.0,
+      "ma10": 1457.387,
+      "ma20": 1377.6695,
+      "ma60": 1348.992,
+      "vol_ma5": 13633649.0,
+      "vol_ma20": 13706902.3,
+      "day_change": -1.384839650145775,
+      "month_change": 4.141009852216748,
+      "score": 70.0594221463137,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (1353.00 > 1267.46)",
+        "成交量未明显放大 (0.99倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603773",
+      "stock_name": "沃格光电",
+      "current_price": 137.1,
+      "ma10": 161.12599999999998,
+      "ma20": 153.6845,
+      "ma60": 99.84150000000002,
+      "vol_ma5": 27956275.6,
+      "vol_ma20": 31410728.7,
+      "day_change": -0.5152020898338328,
+      "month_change": 3.549848942598177,
+      "score": 67.46352969456588,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.89倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "301176",
+      "stock_name": "逸豪新材",
+      "current_price": 59.87,
+      "ma10": 69.118,
+      "ma20": 63.79699999999999,
+      "ma60": 45.97849999999999,
+      "vol_ma5": 7735622.0,
+      "vol_ma20": 11715403.35,
+      "day_change": -1.529605263157896,
+      "month_change": 44.12614347616754,
+      "score": 66.04260687060257,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (59.87 > 58.69)",
+        "成交量未明显放大 (0.66倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "601208",
+      "stock_name": "东材科技",
+      "current_price": 63.7,
+      "ma10": 71.02600000000001,
+      "ma20": 67.54799999999999,
+      "ma60": 51.2195,
+      "vol_ma5": 66711447.2,
+      "vol_ma20": 87680710.85,
+      "day_change": 0.0,
+      "month_change": 12.226920366455252,
+      "score": 64.87333925555697,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (63.70 > 62.14)",
+        "成交量未明显放大 (0.76倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600522",
+      "stock_name": "中天科技",
+      "current_price": 50.22,
+      "ma10": 58.94000000000001,
+      "ma20": 55.2255,
+      "ma60": 43.33333333333333,
+      "vol_ma5": 288221656.8,
+      "vol_ma20": 335257076.4,
+      "day_change": -2.6366808840635914,
+      "month_change": 9.008031256783156,
+      "score": 63.17846153846154,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.86倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002281",
+      "stock_name": "光迅科技",
+      "current_price": 217.33,
+      "ma10": 248.19699999999997,
+      "ma20": 235.17049999999995,
+      "ma60": 189.34383333333335,
+      "vol_ma5": 47084439.4,
+      "vol_ma20": 51270023.2,
+      "day_change": -0.3941518859709392,
+      "month_change": -4.503910712716408,
+      "score": 62.95612127144357,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (217.33 > 216.36)",
+        "成交量未明显放大 (0.92倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "605589",
+      "stock_name": "圣泉集团",
+      "current_price": 55.7,
+      "ma10": 64.77300000000001,
+      "ma20": 62.579499999999996,
+      "ma60": 48.710166666666666,
+      "vol_ma5": 52774659.4,
+      "vol_ma20": 67161598.75,
+      "day_change": -2.8770706190061057,
+      "month_change": 5.692599620493355,
+      "score": 62.86996896609538,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.79倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002491",
+      "stock_name": "通鼎互联",
+      "current_price": 25.47,
+      "ma10": 32.666999999999994,
+      "ma20": 29.239500000000003,
+      "ma60": 22.93116666666667,
+      "vol_ma5": 157148337.2,
+      "vol_ma20": 179817467.9,
+      "day_change": -4.355989485542622,
+      "month_change": 2.6188557614826635,
+      "score": 62.214308037823336,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.87倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603936",
+      "stock_name": "博敏电子",
+      "current_price": 22.78,
+      "ma10": 26.058,
+      "ma20": 24.942500000000003,
+      "ma60": 20.710166666666666,
+      "vol_ma5": 59460106.4,
+      "vol_ma20": 62130269.8,
+      "day_change": -3.7193575655114053,
+      "month_change": 6.25,
+      "score": 61.99885724402669,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.96倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600487",
+      "stock_name": "亨通光电",
+      "current_price": 89.42,
+      "ma10": 109.28399999999999,
+      "ma20": 106.226,
+      "ma60": 81.50166666666668,
+      "vol_ma5": 155066130.0,
+      "vol_ma20": 192433598.5,
+      "day_change": -4.710144927536231,
+      "month_change": -6.970453599667081,
+      "score": 61.94310954786201,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.81倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300620",
+      "stock_name": "光库科技",
+      "current_price": 312.25,
+      "ma10": 367.134,
+      "ma20": 349.37149999999997,
+      "ma60": 289.1898333333334,
+      "vol_ma5": 12102719.2,
+      "vol_ma20": 16169413.65,
+      "day_change": -3.745376078914908,
+      "month_change": -2.5132688104901657,
+      "score": 61.59481171249104,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.75倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300308",
+      "stock_name": "中际旭创",
+      "current_price": 1116.0,
+      "ma10": 1255.398,
+      "ma20": 1231.3020000000001,
+      "ma60": 1042.088,
+      "vol_ma5": 30949545.4,
+      "vol_ma20": 31402053.9,
+      "day_change": -2.3622047244094446,
+      "month_change": -5.422927312943326,
+      "score": 61.41853663030378,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.99倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600498",
+      "stock_name": "烽火通信",
+      "current_price": 61.91,
+      "ma10": 74.913,
+      "ma20": 69.63,
+      "ma60": 58.505999999999986,
+      "vol_ma5": 90675406.8,
+      "vol_ma20": 137973623.1,
+      "day_change": -2.840552416823605,
+      "month_change": 9.61402266288951,
+      "score": 61.16364133593136,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.66倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002913",
+      "stock_name": "奥士康",
+      "current_price": 57.15,
+      "ma10": 63.51899999999999,
+      "ma20": 60.806,
+      "ma60": 55.6355,
+      "vol_ma5": 6225752.0,
+      "vol_ma20": 8352307.8,
+      "day_change": -1.4994829369183171,
+      "month_change": 9.90384615384614,
+      "score": 60.54443655579621,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (57.15 > 55.94)",
+        "成交量未明显放大 (0.75倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688313",
+      "stock_name": "仕佳光子",
+      "current_price": 158.57,
+      "ma10": 181.573,
+      "ma20": 170.96450000000002,
+      "ma60": 156.44349999999997,
+      "vol_ma5": 23097546.6,
+      "vol_ma20": 28226791.7,
+      "day_change": -1.4542290721521356,
+      "month_change": 1.1352764844696717,
+      "score": 60.27185533435394,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (158.57 > 157.29)",
+        "成交量未明显放大 (0.82倍)",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002930",
+      "stock_name": "宏川智慧",
+      "current_price": 9.82,
+      "ma10": 9.377,
+      "ma20": 9.488,
+      "ma60": 12.14166666666667,
+      "vol_ma5": 34839749.0,
+      "vol_ma20": 18207984.55,
+      "day_change": -1.306532663316573,
+      "month_change": -0.908173562058523,
+      "score": 45.0,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (9.82 > 8.73)",
+        "成交量放大 1.91倍",
+        "趋势偏弱"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688700",
+      "stock_name": "东威科技",
+      "current_price": 77.6,
+      "ma10": 88.155,
+      "ma20": 89.417,
+      "ma60": 76.04649999999998,
+      "vol_ma5": 18217679.0,
+      "vol_ma20": 17104094.5,
+      "day_change": -1.2471366759989833,
+      "month_change": -11.617312072892938,
+      "score": 40.40856581170731,
+      "selected": true,
+      "conditions": [
+        false,
+        true,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量放大 1.07倍",
+        "趋势向上: MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603496",
+      "stock_name": "恒为科技",
+      "current_price": 22.73,
+      "ma10": 23.93,
+      "ma20": 23.4325,
+      "ma60": 27.05666666666667,
+      "vol_ma5": 11101598.6,
+      "vol_ma20": 14119463.35,
+      "day_change": 0.6643046944198483,
+      "month_change": 0.044014084507049134,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (22.73 > 21.56)",
+        "成交量未明显放大 (0.79倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300502",
+      "stock_name": "新易盛",
+      "current_price": 526.0,
+      "ma10": 563.8280000000001,
+      "ma20": 596.5409999999999,
+      "ma60": 594.5585,
+      "vol_ma5": 56187365.0,
+      "vol_ma20": 50033271.2,
+      "day_change": 3.3398821218074692,
+      "month_change": -29.679144385026735,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        false,
+        true,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量放大 1.12倍",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002065",
+      "stock_name": "东华软件",
+      "current_price": 7.08,
+      "ma10": 7.2,
+      "ma20": 7.198000000000002,
+      "ma60": 7.865666666666666,
+      "vol_ma5": 37091828.8,
+      "vol_ma20": 40896245.1,
+      "day_change": -0.14104372355430161,
+      "month_change": -2.7472527472527486,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (7.08 > 6.62)",
+        "成交量未明显放大 (0.91倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "000063",
+      "stock_name": "中兴通讯",
+      "current_price": 36.38,
+      "ma10": 36.924,
+      "ma20": 37.3825,
+      "ma60": 36.783833333333334,
+      "vol_ma5": 159201656.2,
+      "vol_ma20": 228062043.5,
+      "day_change": 3.001132502831272,
+      "month_change": -7.027855865065169,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (36.38 > 34.39)",
+        "成交量未明显放大 (0.70倍)",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600362",
+      "stock_name": "江西铜业",
+      "current_price": 43.28,
+      "ma10": 45.515,
+      "ma20": 45.052499999999995,
+      "ma60": 45.62616666666668,
+      "vol_ma5": 63560912.0,
+      "vol_ma20": 76652603.15,
+      "day_change": 3.244274809160297,
+      "month_change": -2.4346257889990897,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (43.28 > 41.45)",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA10 > MA20"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603228",
+      "stock_name": "景旺电子",
+      "current_price": 71.97,
+      "ma10": 72.006,
+      "ma20": 73.81250000000001,
+      "ma60": 72.30266666666667,
+      "vol_ma5": 35239535.2,
+      "vol_ma20": 40961773.95,
+      "day_change": 8.765301496146293,
+      "month_change": 0.8972381887004,
+      "score": 40.0,
+      "selected": true,
+      "conditions": [
+        true,
+        false,
+        true
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (71.97 > 67.91)",
+        "成交量未明显放大 (0.86倍)",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002938",
+      "stock_name": "鹏鼎控股",
+      "current_price": 96.77,
+      "ma10": 104.949,
+      "ma20": 107.7035,
+      "ma60": 90.40466666666667,
+      "vol_ma5": 52567081.8,
+      "vol_ma20": 55299144.5,
+      "day_change": 4.593601383484658,
+      "month_change": -8.83655204898729,
+      "score": 31.408186893006995,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.95倍)",
+        "趋势向上: MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002815",
+      "stock_name": "崇达技术",
+      "current_price": 14.87,
+      "ma10": 17.040000000000003,
+      "ma20": 17.704,
+      "ma60": 16.3615,
+      "vol_ma5": 55447776.8,
+      "vol_ma20": 85703067.25,
+      "day_change": -2.4918032786885314,
+      "month_change": -16.319639842431066,
+      "score": 30.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.65倍)",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300757",
+      "stock_name": "罗博特科",
+      "current_price": 512.73,
+      "ma10": 584.71,
+      "ma20": 609.0495000000001,
+      "ma60": 566.4894999999999,
+      "vol_ma5": 6235998.4,
+      "vol_ma20": 7514175.25,
+      "day_change": -3.1250590435883296,
+      "month_change": -20.994483651268148,
+      "score": 30.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        true
+      ],
+      "conditions_passed": 1,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.83倍)",
+        "趋势向上: MA20 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002045",
+      "stock_name": "国光电器",
+      "current_price": 7.99,
+      "ma10": 8.082,
+      "ma20": 8.380500000000001,
+      "ma60": 10.136166666666664,
+      "vol_ma5": 17411132.4,
+      "vol_ma20": 15425968.8,
+      "day_change": 1.13924050632912,
+      "month_change": -12.390350877192969,
+      "score": 20.0,
+      "selected": false,
+      "conditions": [
+        true,
+        true,
+        false
+      ],
+      "conditions_passed": 2,
+      "reasons": [
+        "价格在MA20附近 (7.99 > 7.71)",
+        "成交量放大 1.13倍",
+        "趋势偏弱"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "002222",
+      "stock_name": "福晶科技",
+      "current_price": 82.3,
+      "ma10": 90.965,
+      "ma20": 92.723,
+      "ma60": 95.22866666666665,
+      "vol_ma5": 27759657.0,
+      "vol_ma20": 32619095.15,
+      "day_change": -3.347034644744573,
+      "month_change": -12.817796610169497,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.85倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300394",
+      "stock_name": "天孚通信",
+      "current_price": 250.1,
+      "ma10": 300.613,
+      "ma20": 336.6085,
+      "ma60": 358.54299999999995,
+      "vol_ma5": 48916222.6,
+      "vol_ma20": 49155095.5,
+      "day_change": -0.26717709454879834,
+      "month_change": -45.27352297592998,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (1.00倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300476",
+      "stock_name": "胜宏科技",
+      "current_price": 308.07,
+      "ma10": 331.956,
+      "ma20": 336.472,
+      "ma60": 337.2123333333333,
+      "vol_ma5": 41390084.0,
+      "vol_ma20": 43928094.45,
+      "day_change": 0.6468685680682151,
+      "month_change": -9.097078784302148,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.94倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "605058",
+      "stock_name": "澳弘电子",
+      "current_price": 32.51,
+      "ma10": 36.436,
+      "ma20": 37.397000000000006,
+      "ma60": 37.50933333333332,
+      "vol_ma5": 4582192.8,
+      "vol_ma20": 4992444.2,
+      "day_change": 0.1231906375115388,
+      "month_change": -12.607526881720442,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.92倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "603920",
+      "stock_name": "世运电路",
+      "current_price": 45.46,
+      "ma10": 48.943,
+      "ma20": 53.270999999999994,
+      "ma60": 57.656,
+      "vol_ma5": 26065599.4,
+      "vol_ma20": 29743127.1,
+      "day_change": 3.0371713508613007,
+      "month_change": -25.779591836734696,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.88倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "688195",
+      "stock_name": "腾景科技",
+      "current_price": 164.6,
+      "ma10": 190.702,
+      "ma20": 199.58549999999997,
+      "ma60": 287.5981666666667,
+      "vol_ma5": 8366682.6,
+      "vol_ma20": 10081445.85,
+      "day_change": -3.3924169503462887,
+      "month_change": -31.927212572373865,
+      "score": 0.0,
+      "selected": false,
+      "conditions": [
+        false,
+        false,
+        false
+      ],
+      "conditions_passed": 0,
+      "reasons": [
+        "价格低于MA20的92%",
+        "成交量未明显放大 (0.83倍)",
+        "趋势偏弱"
+      ],
+      "data_count": 82
+    }
+  ],
+  "top_5": [
+    {
+      "stock_code": "000725",
+      "stock_name": "京东方A",
+      "current_price": 8.38,
+      "ma10": 7.895999999999999,
+      "ma20": 7.0455,
+      "ma60": 5.347833333333332,
+      "vol_ma5": 4754347573.6,
+      "vol_ma20": 3858592045.3,
+      "day_change": -7.912087912087895,
+      "month_change": 30.326594090202196,
+      "score": 111.3397949325272,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (8.38 > 6.48)",
+        "成交量放大 1.23倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "300852",
+      "stock_name": "四会富仕",
+      "current_price": 68.26,
+      "ma10": 64.916,
+      "ma20": 59.84349999999999,
+      "ma60": 52.042833333333334,
+      "vol_ma5": 18120576.0,
+      "vol_ma20": 12651091.25,
+      "day_change": -5.96500895440143,
+      "month_change": 34.5024630541872,
+      "score": 106.23223818841531,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (68.26 > 55.06)",
+        "成交量放大 1.43倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600601",
+      "stock_name": "方正科技",
+      "current_price": 15.12,
+      "ma10": 13.835999999999999,
+      "ma20": 13.4005,
+      "ma60": 12.458,
+      "vol_ma5": 366190525.6,
+      "vol_ma20": 281287857.8,
+      "day_change": 1.3404825737265424,
+      "month_change": 21.739130434782595,
+      "score": 104.27355915877348,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (15.12 > 12.33)",
+        "成交量放大 1.30倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "600176",
+      "stock_name": "中国巨石",
+      "current_price": 70.9,
+      "ma10": 67.99,
+      "ma20": 55.855000000000004,
+      "ma60": 42.10350000000001,
+      "vol_ma5": 214990223.8,
+      "vol_ma20": 198790346.4,
+      "day_change": 4.541433205544099,
+      "month_change": 91.82900432900433,
+      "score": 103.678910304369,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (70.90 > 51.39)",
+        "成交量放大 1.08倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    },
+    {
+      "stock_code": "001389",
+      "stock_name": "广合科技",
+      "current_price": 203.0,
+      "ma10": 205.47200000000004,
+      "ma20": 196.23900000000003,
+      "ma60": 177.00833333333333,
+      "vol_ma5": 14014849.6,
+      "vol_ma20": 10707210.45,
+      "day_change": 3.1504065040650397,
+      "month_change": 16.653258246178602,
+      "score": 97.93677322159974,
+      "selected": true,
+      "conditions": [
+        true,
+        true,
+        true
+      ],
+      "conditions_passed": 3,
+      "reasons": [
+        "价格在MA20附近 (203.00 > 180.54)",
+        "成交量放大 1.31倍",
+        "趋势向上: MA10 > MA20, MA20 > MA60, 价格 > MA60"
+      ],
+      "data_count": 82
+    }
+  ],
+  "summary": {
+    "avg_score": 66.26103056093737,
+    "max_score": 111.3397949325272,
+    "min_score": 0.0,
+    "selected_names": [
+      "京东方A",
+      "四会富仕",
+      "方正科技",
+      "中国巨石",
+      "广合科技",
+      "宿迁联盛",
+      "德福科技",
+      "国瓷材料",
+      "洁美科技",
+      "诺德股份",
+      "深南电路",
+      "鼎龙股份",
+      "鼎泰高科",
+      "金安国纪",
+      "黄河旋风",
+      "驰宏锌锗",
+      "长光华芯",
+      "四方达",
+      "芯碁微装",
+      "科翔股份",
+      "锐捷网络",
+      "太辰光",
+      "大族数控",
+      "海目星",
+      "宏昌电子",
+      "华工科技",
+      "华正新材",
+      "力量钻石",
+      "铜冠铜箔",
+      "云南锗业",
+      "源杰科技",
+      "宏和科技",
+      "生益科技",
+      "海光信息",
+      "立霸股份",
+      "中钨高新",
+      "沪电股份",
+      "剑桥科技",
+      "长飞光纤",
+      "中瓷电子",
+      "恒盛能源",
+      "生益电子",
+      "锡业股份",
+      "紫光股份",
+      "光电股份",
+      "寒武纪",
+      "逸豪新材",
+      "东材科技",
+      "光迅科技",
+      "奥士康",
+      "仕佳光子",
+      "宏川智慧",
+      "东威科技",
+      "恒为科技",
+      "新易盛",
+      "东华软件",
+      "中兴通讯",
+      "江西铜业",
+      "景旺电子"
+    ]
+  }
+}
